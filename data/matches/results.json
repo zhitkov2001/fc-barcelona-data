@@ -1,6 +1,77 @@
 {
   "December 2025": [
     {
+      "id": 4,
+      "dateInfo": {
+        "weekday": "Tuesday",
+        "date": "16",
+        "month": "December",
+        "time": "21:00"
+      },
+      "competition": { "img": "CopaDelRey", "title": "Copa del Rey" },
+      "stageInfo": {
+        "stage": "Round of 32",
+        "stadium": "Pedro Escartín"
+      },
+      "owner": {
+        "title": "Deportivo Guadalajara",
+        "img": "DeportivoGuadalajara",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "score": {
+        "owner": 0,
+        "guest": 2
+      },
+      "guest": {
+        "title": "FC Barcelona",
+        "img": "Barcelona",
+
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "matchBackground": ""
+    },
+    {
+      "id": 3,
+      "dateInfo": {
+        "weekday": "Saturday",
+        "date": "13",
+        "month": "December",
+        "time": "18:30"
+      },
+      "competition": { "img": "LaLiga", "title": "La Liga" },
+      "stageInfo": {
+        "stage": "Matchday 16",
+        "stadium": "Spotify Camp Nou"
+      },
+      "owner": {
+        "title": "FC Barcelona",
+        "img": "Barcelona",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "score": {
+        "owner": 2,
+        "guest": 0
+      },
+      "guest": {
+        "title": "Osasuna",
+        "img": "Osasuna",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "matchBackground": ""
+    },
+    {
       "id": 2,
       "dateInfo": {
         "weekday": "Tuesday",

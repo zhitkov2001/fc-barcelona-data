@@ -47,61 +47,62 @@
                   "matchId": "m1",
                   "homeTeamId": 9,
                   "awayTeamId": 18,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 1, "awayScore": 0 }]
                 },
                 {
                   "matchId": "m2",
                   "homeTeamId": 11,
                   "awayTeamId": 12,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 0, "awayScore": 1 }]
                 },
+
                 {
                   "matchId": "m3",
-                  "homeTeamId": 10,
-                  "awayTeamId": 5,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "homeTeamId": 13,
+                  "awayTeamId": 27,
+                  "legs": [{ "homeScore": 1, "awayScore": 2 }]
                 },
                 {
                   "matchId": "m4",
-                  "homeTeamId": 13,
-                  "awayTeamId": 27,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "homeTeamId": 28,
+                  "awayTeamId": 30,
+                  "legs": [{ "homeScore": 0, "awayScore": 2 }]
                 },
                 {
                   "matchId": "m5",
-                  "homeTeamId": 28,
-                  "awayTeamId": 30,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "homeTeamId": 10,
+                  "awayTeamId": 5,
+                  "legs": [{ "homeScore": 0, "awayScore": 2 }]
                 },
                 {
                   "matchId": "m6",
                   "homeTeamId": 8,
                   "awayTeamId": 17,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 1, "awayScore": 0 }]
                 },
                 {
                   "matchId": "m7",
                   "homeTeamId": 32,
                   "awayTeamId": 7,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 2, "awayScore": 2, "penalty": { "homeScore": 3, "awayScore": 0 } }]
                 },
                 {
                   "matchId": "m8",
                   "homeTeamId": 3,
                   "awayTeamId": 4,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 2, "awayScore": 3 }]
                 },
                 {
                   "matchId": "m9",
                   "homeTeamId": 16,
                   "awayTeamId": 19,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 2, "awayScore": 4 }]
                 },
                 {
                   "matchId": "m10",
                   "homeTeamId": 21,
                   "awayTeamId": 31,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 2, "awayScore": 1 }]
                 },
                 {
                   "matchId": "m11",
@@ -109,8 +110,8 @@
                   "awayTeamId": 26,
                   "legs": [
                     {
-                      "homeScore": null,
-                      "awayScore": null
+                      "homeScore": 1,
+                      "awayScore": 0
                     }
                   ]
                 },
@@ -118,25 +119,25 @@
                   "matchId": "m12",
                   "homeTeamId": 29,
                   "awayTeamId": 24,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 2, "awayScore": 3 }]
                 },
                 {
                   "matchId": "m13",
                   "homeTeamId": 6,
                   "awayTeamId": 14,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 3, "awayScore": 1 }]
                 },
                 {
                   "matchId": "m14",
                   "homeTeamId": 20,
                   "awayTeamId": 2,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 0, "awayScore": 1 }]
                 },
                 {
                   "matchId": "m15",
                   "homeTeamId": 25,
                   "awayTeamId": 23,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 0, "awayScore": 2 }]
                 },
                 {
                   "matchId": "m16",

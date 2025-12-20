@@ -334,6 +334,10 @@
       "position": "defender",
       "img": "Araujo",
       "number": "4",
+      "injured": {
+        "status": true,
+        "type": "Nervous breakdown"
+      },
       "stats": {
         "matches": "158",
         "goals": "9",
@@ -903,10 +907,6 @@
       "position": "midfielder",
       "img": "Pedri",
       "number": "8",
-      "injured": {
-        "status": true,
-        "type": "Muscle injury"
-      },
       "stats": {
         "matches": "183",
         "goals": "25",
@@ -1015,10 +1015,6 @@
       "position": "midfielder",
       "img": "Fermin",
       "number": "16",
-      "injured": {
-        "status": true,
-        "type": "Muscle injury"
-      },
       "stats": {
         "matches": "67",
         "goals": "16",
@@ -1138,6 +1134,10 @@
       "position": "midfielder",
       "img": "Olmo",
       "number": "20",
+      "injured": {
+        "status": true,
+        "type": "Shoulder injury"
+      },
       "stats": {
         "matches": "20",
         "goals": "6",
