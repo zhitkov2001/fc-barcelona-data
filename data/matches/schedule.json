@@ -1,42 +1,4 @@
 {
-  "December 2025": [
-    {
-      "id": 5,
-      "dateInfo": {
-        "weekday": "Sunday",
-        "date": "21",
-        "month": "December",
-        "time": "16:15"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 17",
-        "stadium": "Estadio de la Cerámica"
-      },
-      "owner": {
-        "title": "Villarreal",
-        "img": "Villarreal",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    }
-  ],
   "January 2026": [
     {
       "id": 0,
