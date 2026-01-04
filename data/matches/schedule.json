@@ -1,41 +1,6 @@
 {
   "January 2026": [
     {
-      "id": 0,
-      "dateInfo": {
-        "weekday": "Saturday",
-        "date": "03",
-        "month": "January",
-        "time": "21:00"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 18",
-        "stadium": "Stage Front Stadium"
-      },
-      "owner": {
-        "title": "Espanyol",
-        "img": "Espanyol",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": "SeoulBarcelona"
-    },
-    {
       "id": 1,
       "dateInfo": {
         "weekday": "Wednesday",

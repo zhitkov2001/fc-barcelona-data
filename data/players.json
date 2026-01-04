@@ -1,7 +1,7 @@
 {
   "goalkeepers": [
     {
-      "id": "TerStegen",
+      "id": "ter-stegen",
       "name": "Marc-André",
       "surname": "Ter Stegen",
       "fullName": "Marc-André ter Stegen",
@@ -132,7 +132,7 @@
       }
     },
     {
-      "id": "JoanGarcia",
+      "id": "joan-garcia",
       "name": "Joan",
       "surname": "Garcia",
       "fullName": "Joan Garcia Pons",
@@ -171,7 +171,7 @@
       "trophy": {}
     },
     {
-      "id": "Szczesny",
+      "id": "szczesny",
       "name": "Wojcieh",
       "surname": "Szczesny",
       "fullName": "Wojciech Tomasz Szczęsny",
@@ -266,7 +266,7 @@
   ],
   "defenders": [
     {
-      "id": "Balde",
+      "id": "balde",
       "name": "Alejandro",
       "surname": "Balde",
       "fullName": "Alejandro Balde Martínez",
@@ -327,7 +327,7 @@
       }
     },
     {
-      "id": "Araujo",
+      "id": "araujo",
       "name": "Ronald",
       "surname": "Araujo",
       "fullName": "Ronald Federico Araújo da Silva",
@@ -401,7 +401,7 @@
       }
     },
     {
-      "id": "Cubarsi",
+      "id": "cubarsi",
       "name": "Pau",
       "surname": "Cubarsi",
       "fullName": "Pau Cubarsí Paredes",
@@ -459,7 +459,7 @@
       }
     },
     {
-      "id": "Christensen",
+      "id": "christensen",
       "name": "Andreas",
       "surname": "Christensen",
       "fullName": "Andreas Bødtker Christensen",
@@ -557,7 +557,7 @@
       }
     },
     {
-      "id": "Martin",
+      "id": "martin",
       "name": "Gerard",
       "surname": "Martin",
       "fullName": "Gerard Martín Langreo",
@@ -618,7 +618,7 @@
       }
     },
     {
-      "id": "Kounde",
+      "id": "kounde",
       "name": "Jules",
       "surname": "Kounde",
       "fullName": "Jules Olivier Koundé",
@@ -697,7 +697,7 @@
       }
     },
     {
-      "id": "Garcia",
+      "id": "eric-garcia",
       "name": "Eric",
       "surname": "Garcia",
       "fullName": "Eric García Martret",
@@ -818,7 +818,7 @@
   ],
   "midfielders": [
     {
-      "id": "Gavi",
+      "id": "gavi",
       "name": "Pablo",
       "surname": "Gavi",
       "fullName": "Pablo Martín Páez Gavira",
@@ -900,7 +900,7 @@
       }
     },
     {
-      "id": "Pedri",
+      "id": "pedri",
       "name": "",
       "surname": "Pedri",
       "fullName": "Pedro González López",
@@ -1008,7 +1008,7 @@
       }
     },
     {
-      "id": "Lopez",
+      "id": "fermin-lopez",
       "name": "Fermin",
       "surname": "Lopez",
       "fullName": "Fermín López Marín",
@@ -1079,7 +1079,7 @@
       }
     },
     {
-      "id": "Casado",
+      "id": "casado",
       "name": "Marc",
       "surname": "Casado",
       "fullName": "Marc Casadó Torras",
@@ -1127,7 +1127,7 @@
       }
     },
     {
-      "id": "Olmo",
+      "id": "olmo",
       "name": "Dani",
       "surname": "Olmo",
       "fullName": "Daniel Olmo Carvajal",
@@ -1262,7 +1262,7 @@
       }
     },
     {
-      "id": "deJong",
+      "id": "de-jong",
       "name": "Frenkie",
       "surname": "de Jong",
       "fullName": "Frenkie de Jong",
@@ -1351,7 +1351,7 @@
       }
     },
     {
-      "id": "Bernal",
+      "id": "bernal",
       "name": "Marc",
       "surname": "Bernal",
       "fullName": "Marc Bernal Casas",
@@ -1395,7 +1395,7 @@
   ],
   "forwards": [
     {
-      "id": "Torres",
+      "id": "ferran-torres",
       "name": "Ferran",
       "surname": "Torres",
       "fullName": "Ferran Torres García",
@@ -1519,7 +1519,7 @@
       }
     },
     {
-      "id": "Lewandowski",
+      "id": "lewandowski",
       "name": "Robert",
       "surname": "Lewandowski",
       "fullName": "Robert Lewandowski",
@@ -1706,7 +1706,7 @@
       }
     },
     {
-      "id": "Yamal",
+      "id": "lamine-yamal",
       "name": "Lamine",
       "surname": "Yamal",
       "fullName": "Lamine Yamal Nasraoui Ebana",
@@ -1790,7 +1790,7 @@
       }
     },
     {
-      "id": "Raphinha",
+      "id": "raphinha",
       "name": "",
       "surname": "Raphinha",
       "fullName": "Raphael Dias Belloli",
@@ -1881,7 +1881,7 @@
       }
     },
     {
-      "id": "Rashford",
+      "id": "rashford",
       "name": "Marcus",
       "surname": "Rashford",
       "fullName": "Marcus Rashford",
@@ -1946,7 +1946,7 @@
       }
     },
     {
-      "id": "Bardghji",
+      "id": "bardghji",
       "name": "Roony",
       "surname": "Bardghji",
       "fullName": "Roony Bardghji",
@@ -2004,7 +2004,7 @@
   ],
   "Stuff": [
     {
-      "id": "Flick",
+      "id": "flick",
       "name": "Hansi",
       "surname": "Flick",
       "fullName": "Hans-Dieter Flick",

@@ -3,32 +3,56 @@
     "id": 5,
     "month": "july",
     "date": "14",
-    "img": "1",
-    "title": "Test news 5",
+    "cover": "1",
+    "title": "Roony Bardghji signs for FC Barcelona until 2029",
     "subtitle": "Swedish player joins from FC Copenhagen and is set to stay until 30 June 2029",
     "category": "transfers",
+    "relatedPlayers": ["bardghji"],
     "content": [
       {
+        "id": "p1",
         "type": "paragraph",
         "text": "FC Barcelona and FC Copenhagen have reached agreement for the transfer of the player Roony Bardghji. The winger is to sign a contract with the club for four seasons until 30 June 2029."
       },
       {
+        "id": "h1",
         "type": "heading",
         "text": "Young talent for the right wing"
       },
       {
-        "type": "paragraph",
-        "text": "Born in Kuwait on 15 November 2005, but a Swedish national, Roony Bardghji is a new young signing for FC Barcelona. Aged just 19 years old, this right winger is known for his skill, speed, and goalscoring ability, qualities that make him a great prospect for the future."
+        "id": "mt1",
+        "type": "media-text",
+        "order": "text-first",
+        "media": {
+          "type": "image",
+          "src": "bardghji",
+          "alt": "Roony Bardghji"
+        },
+        "text": "..."
       },
       {
+        "id": "p2",
         "type": "paragraph",
         "text": "Signed from FC Copenhagen, Bardghji joined the youth system at the Danish side in summer 2020, after starting out at Malmö. His talent saw him quickly promoted to the Copenhagen first team in 2022, going on to play 84 games, scoring 15 goals and providing one assist."
       },
       {
-        "type": "paragraph",
-        "text": "One of the most in-demand young players in Europe, his rise was temporarily curtailed due to a serious injury that left him on the sidelines for almost a year. Despite this setback and having now recovered, his quality has been on show since his return."
+        "id": "mt2",
+        "type": "media-text",
+        "order": "text-first",
+        "media": {
+          "type": "image",
+          "src": "bardghji",
+          "alt": "Roony Bardghji"
+        },
+        "text": "..."
       },
       {
+        "id": "h2",
+        "type": "heading",
+        "text": "Young talent for the right wing"
+      },
+      {
+        "id": "p3",
         "type": "paragraph",
         "text": "As a wide player, Bardghji is known for his one-on-one skills, his ability to dribble past opponents, and his effectiveness in front of goal. His presence on the right wing can, therefore, make the difference and provide more dynamism. During his spell for Copenhagen, he won three Danish league titles and two Danish cups, making decisive contributions for team success."
       }
