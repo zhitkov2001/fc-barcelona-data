@@ -1,5 +1,69 @@
 [
   {
+    "id": 1,
+    "month": "january",
+    "date": "8",
+    "cover": "barca-athletic-semi-final",
+    "title": "Five records from a perfect semifinal against Athletic Club",
+    "subtitle": "First time ever a team wins by five goals in the competition",
+    "category": "first team",
+    "relatedPlayers": [""],
+    "content": [
+      {
+        "id": "p1",
+        "type": "paragraph",
+        "text": "his wasn't just any old victory. The five goals against Athletic Club in the Spanish Super Cup semi-final produced several records and provided interesting facts that will help to remember a perfect match by the blaugranes in Yeddah."
+      },
+      {
+        "id": "mt1",
+        "type": "media",
+        "order": "media-first",
+        "media": {
+          "type": "image",
+          "src": "roony-2",
+          "alt": "Roony Bardghji",
+          "width": 400,
+          "height": 200
+        },
+        "text": "Just four minutes later, Roony had a pop from an angle. It was a speculative attempt that shouldn’t have troubled Unai too much, but the ball slipped under the keeper's body and across the line."
+      },
+      {
+        "id": "h1",
+        "type": "heading",
+        "level": 2,
+        "text": "Young talent for the right wing"
+      },
+
+      {
+        "id": "p2",
+        "type": "paragraph",
+        "text": "Signed from FC Copenhagen, Bardghji joined the youth system at the Danish side in summer 2020, after starting out at Malmö. His talent saw him quickly promoted to the Copenhagen first team in 2022, going on to play 84 games, scoring 15 goals and providing one assist."
+      },
+      {
+        "id": "mt2",
+        "type": "media-text",
+        "order": "text-first",
+        "media": {
+          "type": "image",
+          "src": "bardghji",
+          "alt": "Roony Bardghji"
+        },
+        "text": "This was no longer a game. It was a rout. By the time the teams went in for the break, Barça had done it again. And what a goal from man-of-the-match Raphinha! The Brazilian swept onto Ronny’s pass, unleashed a thunderbolt into the top left corner and that was 4-0."
+      },
+      {
+        "id": "h2",
+        "type": "heading",
+        "level": 2,
+        "text": "Young talent for the right wing"
+      },
+      {
+        "id": "p3",
+        "type": "paragraph",
+        "text": "As a wide player, Bardghji is known for his one-on-one skills, his ability to dribble past opponents, and his effectiveness in front of goal. His presence on the right wing can, therefore, make the difference and provide more dynamism. During his spell for Copenhagen, he won three Danish league titles and two Danish cups, making decisive contributions for team success."
+      }
+    ]
+  },
+  {
     "id": 0,
     "month": "july",
     "date": "14",
@@ -26,7 +90,9 @@
         "media": {
           "type": "image",
           "src": "bardghji",
-          "alt": "Roony Bardghji"
+          "alt": "Roony Bardghji",
+          "width": 600,
+          "height": 400
         },
         "text": "..."
       },
