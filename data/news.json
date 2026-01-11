@@ -1,11 +1,11 @@
 [
   {
-    "id": 1,
+    "id": 2,
     "month": "january",
-    "date": "8",
-    "cover": "barca-athletic-semi-final",
+    "date": "9",
+    "cover": "barca-records",
     "title": "Five records from a perfect semifinal against Athletic Club",
-    "subtitle": "First time ever a team wins by five goals in the competition",
+    "subtitle": "Barça's 5-0 win over Athletic Club saw the team set several records in the Spanish Super Cup",
     "category": "first team",
     "relatedPlayers": [""],
     "content": [
@@ -15,53 +15,167 @@
         "text": "his wasn't just any old victory. The five goals against Athletic Club in the Spanish Super Cup semi-final produced several records and provided interesting facts that will help to remember a perfect match by the blaugranes in Yeddah."
       },
       {
-        "id": "mt1",
-        "type": "media-text",
-        "order": "media-first",
-        "media": {
-          "type": "image",
-          "src": "roony-2",
-          "alt": "Roony Bardghji",
-          "width": 400,
-          "height": 200
-        },
-        "text": "Just four minutes later, Roony had a pop from an angle. It was a speculative attempt that shouldn’t have troubled Unai too much, but the ball slipped under the keeper's body and across the line."
-      },
-      {
         "id": "h1",
         "type": "heading",
         "level": 2,
-        "text": "Young talent for the right wing"
+        "text": "Super Cup history made"
       },
-
       {
         "id": "p2",
         "type": "paragraph",
-        "text": "Signed from FC Copenhagen, Bardghji joined the youth system at the Danish side in summer 2020, after starting out at Malmö. His talent saw him quickly promoted to the Copenhagen first team in 2022, going on to play 84 games, scoring 15 goals and providing one assist."
-      },
-      {
-        "id": "mt2",
-        "type": "media-text",
-        "order": "text-first",
-        "media": {
-          "type": "image",
-          "src": "roony-2",
-          "alt": "Roony Bardghji",
-          "width": 400,
-          "height": 200
-        },
-        "text": "This was no longer a game. It was a rout. By the time the teams went in for the break, Barça had done it again. And what a goal from man-of-the-match Raphinha! The Brazilian swept onto Ronny’s pass, unleashed a thunderbolt into the top left corner and that was 4-0."
+        "text": "To begin with, the match will go into the history books as the first ever to be won by a five goal margin in the competition. It was also the first time a team had gone in four goals up at half-time (4-0)."
       },
       {
         "id": "h2",
         "type": "heading",
         "level": 2,
-        "text": "Young talent for the right wing"
+        "text": "35 years later..."
       },
       {
         "id": "p3",
         "type": "paragraph",
-        "text": "As a wide player, Bardghji is known for his one-on-one skills, his ability to dribble past opponents, and his effectiveness in front of goal. His presence on the right wing can, therefore, make the difference and provide more dynamism. During his spell for Copenhagen, he won three Danish league titles and two Danish cups, making decisive contributions for team success."
+        "text": "It's also 35 years since Barça scored a total of nine goals across two consecutive games against Athletic Club, which was back in the 1990/91 season. The day of the return to the Spotify Camp Nou on 22 November saw Barça also win big against the Basque side (4-0)."
+      },
+      {
+        "id": "h3",
+        "type": "heading",
+        "level": 2,
+        "text": "Fermín, Ferran and Roony make their mark"
+      },
+      {
+        "id": "p4",
+        "type": "paragraph",
+        "text": "Fermín López, Ferran Torres and Roony Bardghji are also likely to remember the match in Yeddah. The Andalusian scored and assisted in the first half of the game, a first for the competition. Ferran and Roony also scored their first goals in the competition."
+      },
+      {
+        "id": "h4",
+        "type": "heading",
+        "level": 2,
+        "text": "Four Super Cup debuts"
+      },
+      {
+        "id": "p5",
+        "type": "paragraph",
+        "text": "In fact, Roony and another three players made their debuts in the Spanish Super Cup. The others were Marcus Rashford, Marc Bernal and Joan Garcia, the latter ensuring Barça have now achieved five consecutive clean sheets for the first time since 2020."
+      },
+      {
+        "id": "h5",
+        "type": "heading",
+        "level": 2,
+        "text": "100 goals in the competition"
+      },
+      {
+        "id": "p6",
+        "type": "paragraph",
+        "text": "The final goal by Raphinha to make it 5-0 was goal number 100 for Barça in the Spanish Super Cup. They also lead the way for highest ever goalscorers in the competition with the 14 goals by Leo Messi."
+      },
+      {
+        "id": "m1",
+        "type": "media",
+        "media": {
+          "type": "image",
+          "src": "barca-records-2",
+          "alt": "Barcelona vs Athletic Club"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "month": "january",
+    "date": "8",
+    "cover": "barca-athletic-semi-final",
+    "title": "FC Barcelona 5-0 Athletic Club: Super finalists",
+    "subtitle": "Ferran, Fermín, Roony and Raphinha (2) get the goals as Hansi Flick's side surge into Sunday's final",
+    "category": "first team",
+    "relatedPlayers": [""],
+    "content": [
+      {
+        "id": "p1",
+        "type": "paragraph",
+        "text": "FC Barcelona have blitzed their way into Sunday’s Spanish Super Cup Final (kick-off 8pm CET) with a simply staggering 5–0 victory over Athletic Club. A colossal Raphinha struck twice, with Ferran Torres, Fermín López and Roony Bardghji also on target — four of the goals coming in the first 38 minutes, rendering the second half little more than a formality."
+      },
+      {
+        "id": "p2",
+        "type": "paragraph",
+        "text": "The biggest winning margin in the competition’s history perfectly reflected what unfolded on the pitch. Barça were utterly dominant from start to finish, while their opponents barely laid a glove on them. It was certainly an uncharacteristically poor showing from the Basques, but that owed much to the brilliance of a Barça side that seems to improve with every outing. On this occasion, the blaugranes were simply out of this world."
+      },
+      {
+        "id": "h1",
+        "type": "heading",
+        "level": 2,
+        "text": "Ferran opens the floodgates"
+      },
+      {
+        "id": "p3",
+        "type": "paragraph",
+        "text": "Had it not been for a handful of solid interventions from Athletic goalkeeper Unai Simón, Barça could have been ahead well before they eventually broke the deadlock on 22 minutes. It remains unclear whether Fermín’s volley was intended as a shot or a pass, but Ferran Torres made no mistake on the end of it, turning sharply and firing home from close range with trademark precision."
+      },
+      {
+        "id": "p4",
+        "type": "paragraph",
+        "text": "Barça were even more dominant after scoring and it wasn’t long before they’d doubled their lead."
+      },
+      {
+        "id": "p5",
+        "type": "paragraph",
+        "text": "Bang on the half-hour Raphinha capped a strong run down the left with a simply perfect pass through the Basque defence to meet Fermín running in. The 22-year-old couldn’t have asked for a better connection and that was 2-0."
+      },
+      {
+        "id": "p6",
+        "type": "paragraph",
+        "text": "Athletic already looked like a beaten team and there was still an hour of football to play. And things were about to get worse for them. Much worse. Barça were on a roll."
+      },
+      {
+        "id": "h2",
+        "type": "heading",
+        "level": 2,
+        "text": "Ferran opens the floodgates"
+      },
+      {
+        "id": "p7",
+        "type": "paragraph",
+        "text": "Just four minutes later, Roony had a pop from an angle. It was a speculative attempt that shouldn’t have troubled Unai too much, but the ball slipped under the keeper's body and across the line."
+      },
+      {
+        "id": "p8",
+        "type": "paragraph",
+        "text": "This was no longer a game. It was a rout. By the time the teams went in for the break, Barça had done it again. And what a goal from man-of-the-match Raphinha! The Brazilian swept onto Ronny’s pass, unleashed a thunderbolt into the top left corner and that was 4-0."
+      },
+      {
+        "id": "p9",
+        "type": "paragraph",
+        "text": "Oihan Sancet struck the post before the whistle blew, but even if it had gone in, Athletic already knew they were fighting a losing battle. This game had blaugrana written all over it. Culers could already start making plans for Sunday’s final."
+      },
+      {
+        "id": "h3",
+        "type": "heading",
+        "level": 2,
+        "text": "Eyes on the final"
+      },
+      {
+        "id": "p10",
+        "type": "paragraph",
+        "text": "And there was more to come. The second half had barely started before the goal count was up to five. A series of blocked attempts eventually led to the ball landing at the feet of somebody who already had six goals from six games. Raphinha is in insatiable form, and that was yet another for his collection."
+      },
+      {
+        "id": "p11",
+        "type": "paragraph",
+        "text": "The only question fans were asking now was how many more Barça could score. But with a final to be played on Sunday and absolutely no need to overdo things, they kept things sensible, eased off the accelerator and the second half passed off with very little more in the way of major incident."
+      },
+      {
+        "id": "p12",
+        "type": "paragraph",
+        "text": "It didn’t need to. The celebrations had already begun long before the final whistle put Athletic out of their agony. A simply majestic Barça are staying a little bit longer in Jeddah, and all that remains is to find out whether it’s Real or Atlético Madrid who stand between them and the trophy."
+      },
+      {
+        "id": "m1",
+        "type": "media",
+        "media": {
+          "type": "image",
+          "src": "barca-athletic",
+          "alt": "Barça vs Athletic Club"
+        }
       }
     ]
   },
@@ -83,6 +197,7 @@
       {
         "id": "h1",
         "type": "heading",
+        "level": 2,
         "text": "Young talent for the right wing"
       },
       {
@@ -93,7 +208,7 @@
           "type": "image",
           "src": "roony-2",
           "alt": "Roony Bardghji",
-          "width": 400,
+          "width": 170,
           "height": 200
         },
         "text": "Just four minutes later, Roony had a pop from an angle. It was a speculative attempt that shouldn’t have troubled Unai too much, but the ball slipped under the keeper's body and across the line."
@@ -106,12 +221,12 @@
       {
         "id": "mt2",
         "type": "media-text",
-        "order": "text-first",
+        "order": "media-first",
         "media": {
           "type": "image",
           "src": "roony-2",
           "alt": "Roony Bardghji",
-          "width": 400,
+          "width": 170,
           "height": 200
         },
         "text": "This was no longer a game. It was a rout. By the time the teams went in for the break, Barça had done it again. And what a goal from man-of-the-match Raphinha! The Brazilian swept onto Ronny’s pass, unleashed a thunderbolt into the top left corner and that was 4-0."
@@ -119,6 +234,7 @@
       {
         "id": "h2",
         "type": "heading",
+        "level": 2,
         "text": "Young talent for the right wing"
       },
       {
@@ -132,9 +248,7 @@
         "media": {
           "type": "image",
           "src": "roony-1",
-          "alt": "Roony Bardghji",
-          "width": 800,
-          "height": 600
+          "alt": "Roony Bardghji"
         }
       }
     ]
