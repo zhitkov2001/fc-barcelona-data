@@ -16,7 +16,7 @@
       },
       {
         "id": "mt1",
-        "type": "media",
+        "type": "media-text",
         "order": "media-first",
         "media": {
           "type": "image",
@@ -45,8 +45,10 @@
         "order": "text-first",
         "media": {
           "type": "image",
-          "src": "bardghji",
-          "alt": "Roony Bardghji"
+          "src": "roony-2",
+          "alt": "Roony Bardghji",
+          "width": 400,
+          "height": 200
         },
         "text": "This was no longer a game. It was a rout. By the time the teams went in for the break, Barça had done it again. And what a goal from man-of-the-match Raphinha! The Brazilian swept onto Ronny’s pass, unleashed a thunderbolt into the top left corner and that was 4-0."
       },
@@ -89,12 +91,12 @@
         "order": "text-first",
         "media": {
           "type": "image",
-          "src": "bardghji",
+          "src": "roony-2",
           "alt": "Roony Bardghji",
-          "width": 600,
-          "height": 400
+          "width": 400,
+          "height": 200
         },
-        "text": "..."
+        "text": "Just four minutes later, Roony had a pop from an angle. It was a speculative attempt that shouldn’t have troubled Unai too much, but the ball slipped under the keeper's body and across the line."
       },
       {
         "id": "p2",
@@ -107,10 +109,12 @@
         "order": "text-first",
         "media": {
           "type": "image",
-          "src": "bardghji",
-          "alt": "Roony Bardghji"
+          "src": "roony-2",
+          "alt": "Roony Bardghji",
+          "width": 400,
+          "height": 200
         },
-        "text": "..."
+        "text": "This was no longer a game. It was a rout. By the time the teams went in for the break, Barça had done it again. And what a goal from man-of-the-match Raphinha! The Brazilian swept onto Ronny’s pass, unleashed a thunderbolt into the top left corner and that was 4-0."
       },
       {
         "id": "h2",
@@ -121,6 +125,17 @@
         "id": "p3",
         "type": "paragraph",
         "text": "As a wide player, Bardghji is known for his one-on-one skills, his ability to dribble past opponents, and his effectiveness in front of goal. His presence on the right wing can, therefore, make the difference and provide more dynamism. During his spell for Copenhagen, he won three Danish league titles and two Danish cups, making decisive contributions for team success."
+      },
+      {
+        "id": "m1",
+        "type": "media",
+        "media": {
+          "type": "image",
+          "src": "roony-1",
+          "alt": "Roony Bardghji",
+          "width": 800,
+          "height": 600
+        }
       }
     ]
   }
