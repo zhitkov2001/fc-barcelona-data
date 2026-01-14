@@ -1,5 +1,140 @@
 [
   {
+    "id": 3,
+    "month": "january",
+    "date": "12",
+    "cover": "supercopa-winner",
+    "title": "FC Barcelona 3-2 Real Madrid",
+    "subtitle": "Two goals from Raphinha and won from Lewandowski deliver the 16th Spanish Super Cup on a memorable night in Jeddah",
+    "category": "first team",
+    "relatedPlayers": [],
+    "content": [
+      {
+        "id": "p1",
+        "type": "paragraph",
+        "text": "FC Barcelona have retained the Spanish Super Cup trophy after yet another Clásico that fully delivered on the promise of being the greatest club fixture in the world."
+      },
+      {
+        "id": "p2",
+        "type": "paragraph",
+        "text": "After tournament MVP Raphinha had opened the scoring, there were no fewer three goals in first half injury time, with the sides going for the break level pegging on 2-2. Barça had played the better football of the first half, and a second Raphinha goal with just over a quarter of hour to go would turn out to be the winner, but not without plenty of further drama between then and the final whistle."
+      },
+      {
+        "id": "p3",
+        "type": "paragraph",
+        "text": "On a night in Saudi Arabia that also saw Ronald Araujo make a welcome return to action, and also be honoured as the man chosen to lift the trophy, Barça have become the first back-to-back Super Cup winners for a decade and a half, and have extended what was already a record haul of wins in this competition to 16."
+      },
+      {
+        "id": "m1",
+        "type": "media",
+        "media": {
+          "type": "image",
+          "src": "raphinha-celebrate",
+          "alt": "Raphinha Super Cup"
+        }
+      },
+      {
+        "id": "h1",
+        "type": "heading",
+        "level": 2,
+        "text": "Brazilians at both ends"
+      },
+      {
+        "id": "p4",
+        "type": "paragraph",
+        "text": "After an opening half hour with little in the way of major action, the game swung into action big time with no fewer than four goals before the first half was over."
+      },
+      {
+        "id": "p5",
+        "type": "paragraph",
+        "text": "Having just missed one great chance running in from the left, Raphinha made no mistake when presented with a similar opportunity just moments later and Barça were ahead."
+      },
+      {
+        "id": "p6",
+        "type": "paragraph",
+        "text": "The goal inflated Barça as much as it deflated their opposition, and Real Madrid were largely chasing shadows as the Catalans dominated possession (76% in the first 45 minutes) and kept Thibaut Courtois busy as they pressed hard in search of a second."
+      },
+      {
+        "id": "p7",
+        "type": "paragraph",
+        "text": "A Madrid equaliser looked highly unlikely at this stage, but that’s what we got two minutes into injury time. With all due respect, it was a flash of genius from Vinícius Júnior. The Brazilian skipped his way through five defenders before converting and we were back to all square."
+      },
+      {
+        "id": "h2",
+        "type": "heading",
+        "level": 2,
+        "text": "Injury time madness"
+      },
+      {
+        "id": "p8",
+        "type": "paragraph",
+        "text": "Barça were quick to respond. Extraordinarily quick. Practically from the restart, the Madrid defence was caught napping as Pedri played through to Robert Lewandowski, and the Pole deftly flicked the ball over Courtois and in off the far post. The Madrid players were furious that the goal had come after the three minutes of injury time were clearly up, but they weren’t complaining when they themselves also scored before the half-time whistle blew."
+      },
+      {
+        "id": "p9",
+        "type": "paragraph",
+        "text": "Dean Huijsen headed a corner onto the crossbar and Gonzalo García managed to scramble the rebound over the line. Following a crazy few minutes of football, it was 2-2 at the break."
+      },
+      {
+        "id": "h3",
+        "type": "heading",
+        "level": 2,
+        "text": "Raphinha does it again!"
+      },
+      {
+        "id": "p10",
+        "type": "paragraph",
+        "text": "Barça weren’t quite as dominant after the restart, but on 73 minutes they were ahead for the third time. There was an element of fortune as Raphinha’s shot deflected upward off Raúl Asencio and over a confounded Courtois’ head. But into the net it went, making the Brazilian the first player to ever score four goals in a single edition of the Super Cup. Barça’s intentions shifted from trying to extend their lead to simply protecting it as the game built up to a thrilling climax."
+      },
+      {
+        "id": "p11",
+        "type": "paragraph",
+        "text": "Kylian Mbappé, fresh back from injury, came on to help Madrid’s quest to get a goal back, but the Frenchman’s only major impact on the game was to be on the receiving end of a tackle that looked a lot worse than it really was, but for which Frenkie de Jong nevertheless saw red."
+      },
+      {
+        "id": "h4",
+        "type": "heading",
+        "level": 2,
+        "text": "Late heroics"
+      },
+      {
+        "id": "p12",
+        "type": "paragraph",
+        "text": "Madrid’s fightback had produced little in the way of real chances, and substitute Marcus Rashford could have settled things once and for all at the other end, before two glorious saves from Joan García ensured that blaugrana ribbons were going on the trophy. There was a terrifying moment when any number of Madrid players could have shot from close range, but it was Álvaro Carreras who eventually did, and then the Barça stopper blocked a point-blank header from Asencio, just seconds before the final whistle blew on a breathtaking game of football and heralded FC Barcelona as the Spanish Super Cup winners for the second year in a row!"
+      },
+      {
+        "id": "m1",
+        "type": "slider",
+        "images": [
+          {
+            "src": "slider-1",
+            "alt": "Barcelona vs Real Madrid"
+          },
+          {
+            "src": "slider-2",
+            "alt": "Barcelona vs Real Madrid"
+          },
+          {
+            "src": "slider-3",
+            "alt": "Barcelona vs Real Madrid"
+          },
+          {
+            "src": "slider-4",
+            "alt": "Barcelona vs Real Madrid"
+          },
+          {
+            "src": "slider-5",
+            "alt": "Barcelona vs Real Madrid"
+          },
+          {
+            "src": "slider-6",
+            "alt": "Barcelona vs Real Madrid"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 2,
     "month": "january",
     "date": "9",
