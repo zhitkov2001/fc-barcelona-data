@@ -1,5 +1,133 @@
 [
   {
+    "id": 4,
+    "month": "january",
+    "date": "16",
+    "cover": "racing-barcelona-round-of-16",
+    "title": "Racing Santander 0-2 FC Barcelona: Into the last eight",
+    "subtitle": "Goals from Ferran Torres and Lamine Yamal seal a hard-fought win at the home of the leaders of the second division",
+    "category": "first team",
+    "relatedPlayers": [],
+    "content": [
+      {
+        "id": "p1",
+        "type": "paragraph",
+        "text": "And indeed this was anything but a simple ride. With just Ferran Torres’ second half goal splitting the sides, Racing Santander pressed hard for an equaliser and came close on a number of occasions before Lamine Yamal settled things once and for all with a goal in the dying seconds of injury time."
+      },
+      {
+        "id": "p2",
+        "type": "paragraph",
+        "text": "It was so refreshing to see that a historic side like Racing are back on track after several years in the doldrums, but ultimately there is no doubt that, not without a tough fight, the best side won today and the defending champions will be among the eight teams going into the quarter final draw."
+      },
+      {
+        "id": "h1",
+        "type": "heading",
+        "level": 2,
+        "text": "Hard work"
+      },
+      {
+        "id": "p3",
+        "type": "paragraph",
+        "text": "Hansi Flick opted to start without such favourites as Lewandowski, Raphinha, Pedri and Eric García, but with a top-of-table clash with Las Palmas coming up at the weekend, the home side also included a few rotations."
+      },
+      {
+        "id": "p4",
+        "type": "paragraph",
+        "text": "Racing weren’t afraid to take the game to Barça, but quickly realised these things are easier said than done against the Liga leaders, and got forced more and more into a defence and counter attack game. However, it soon became apparent that the Cantabrians are impressively adept at both of those tasks, and the minutes ticked by with Barça always threatening but creating alarmingly little in the way of clear-cut chances."
+      },
+      {
+        "id": "p5",
+        "type": "paragraph",
+        "text": "Jokin Ezkieta’s gloves may have still been surprisingly clean at half-time, but Barça upped the ante after the interval and the likes of Lamine Yamal and Marcus Rashford were soon putting the Racing keeper to the test."
+      },
+      {
+        "id": "h2",
+        "type": "heading",
+        "level": 2,
+        "text": "Torres breaks deadlock"
+      },
+      {
+        "id": "p6",
+        "type": "paragraph",
+        "text": "Barça pushed, pushed and pushed a bit more, to the point that pretty much all the action was in the opposition’s half of the pitch. But buoyed by a vibrant El Sardinero, Racing dug deep in defence, often spectacularly, making Barça work a lot harder than they have done this season against supposedly superior sides."
+      },
+      {
+        "id": "p7",
+        "type": "paragraph",
+        "text": "There was a reason Racing weren’t going forward. Their first meaningful attack of the second half gave Barça the space they needed and when Fermín López played Ferran Torres through on goal, there was no way the ‘Shark’ was going let the chance slip."
+      },
+      {
+        "id": "p8",
+        "type": "paragraph",
+        "text": "A sweet little finish and after 66 minutes of frustration, Barça were at last on top!"
+      },
+      {
+        "id": "p9",
+        "type": "paragraph",
+        "text": "Racing now had no option but to throw caution to the wind, and Manex Lozano did indeed get the ball in the back of Joan García’s net not once but twice, but on both occasions play was called back for offside."
+      },
+      {
+        "id": "h3",
+        "type": "heading",
+        "level": 2,
+        "text": "Lamine seals it"
+      },
+      {
+        "id": "p10",
+        "type": "paragraph",
+        "text": "Logic still said that Barça were going to go on to win this, but Racing were playing with such grit and passion that an equaliser and extra time were far from out of the question. And in the dying seconds of injury time it looked like they had it. But Lozano went for the shot rather than laying up the unmarked Andrés Martínat at his side. A superb block by Joan García and moments later Lamine Yamal was scoring the goal that settled the game once and for all."
+      },
+      {
+        "id": "p11",
+        "type": "paragraph",
+        "text": "It looked like the forwards had wasted a fine chance on the counter attack, but Raphinha eventually cleared things up by setting up a last second tap-in for the man who had initiated the move."
+      },
+      {
+        "id": "p12",
+        "type": "paragraph",
+        "text": "Cracking drama to end a lovely little cup tie in Cantabria, and Barça will go on from this to meet one of Real Sociedad, Athletic Club, Atlético Madrid, Real Betis, Alavés, Albacete or Valencia in the next round."
+      },
+      {
+        "id": "s1",
+        "type": "slider",
+        "images": [
+          {
+            "src": "slider-1",
+            "alt": "Racing vs Barcelona Copa del Rey round of 16"
+          },
+          {
+            "src": "slider-2",
+            "alt": "Racing vs Barcelona Copa del Rey round of 16"
+          },
+          {
+            "src": "slider-3",
+            "alt": "Racing vs Barcelona Copa del Rey round of 16"
+          },
+          {
+            "src": "slider-4",
+            "alt": "Racing vs Barcelona Copa del Rey round of 16"
+          },
+          {
+            "src": "slider-5",
+            "alt": "Racing vs Barcelona Copa del Rey round of 16"
+          },
+          {
+            "src": "slider-6",
+            "alt": "Racing vs Barcelona Copa del Rey round of 16"
+          },
+          {
+            "src": "slider-7",
+            "alt": "Racing vs Barcelona Copa del Rey round of 16"
+          },
+          {
+            "src": "slider-8",
+            "alt": "Racing vs Barcelona Copa del Rey round of 16"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 3,
     "month": "january",
     "date": "12",
@@ -103,7 +231,7 @@
         "text": "Madrid’s fightback had produced little in the way of real chances, and substitute Marcus Rashford could have settled things once and for all at the other end, before two glorious saves from Joan García ensured that blaugrana ribbons were going on the trophy. There was a terrifying moment when any number of Madrid players could have shot from close range, but it was Álvaro Carreras who eventually did, and then the Barça stopper blocked a point-blank header from Asencio, just seconds before the final whistle blew on a breathtaking game of football and heralded FC Barcelona as the Spanish Super Cup winners for the second year in a row!"
       },
       {
-        "id": "m1",
+        "id": "s1",
         "type": "slider",
         "images": [
           {

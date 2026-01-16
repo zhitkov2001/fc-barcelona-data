@@ -19,13 +19,13 @@
                   "matchId": "m1",
                   "homeTeamId": 3,
                   "awayTeamId": 1,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 5, "awayScore": 0 }]
                 },
                 {
                   "matchId": "m2",
                   "homeTeamId": 2,
                   "awayTeamId": 4,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 1, "awayScore": 2 }]
                 }
               ]
             },
@@ -34,9 +34,9 @@
               "matches": [
                 {
                   "matchId": "m1",
-                  "homeTeamId": null,
-                  "awayTeamId": null,
-                  "legs": []
+                  "homeTeamId": 3,
+                  "awayTeamId": 4,
+                  "legs": [{ "homeScore": 3, "awayScore": 2 }]
                 }
               ]
             }

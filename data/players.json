@@ -13,18 +13,14 @@
         "type": "Back injury"
       },
       "stats": {
-        "matches": "420",
-        "clean": "174",
-        "saves": "983"
+        "matches": "423",
+        "clean": "175",
+        "saves": "989"
       },
       "currentStats": {
-        "matches": "7",
+        "matches": "1",
         "clean": "1",
-        "saves": "17"
-      },
-      "allTimeStats": {
-        "matches": "619",
-        "clean": "252"
+        "saves": "3"
       },
       "title": "A keeper with great reflexes and also excellent with the ball at his feet",
       "subtitle": "Marc-André ter Stegen signed for FC Barcelona in the summer of 2014 from Borussia Mönchengladbach. Born on 30 April 1992 in Mönchengladbach itself, the German did not take long to make his name as one Europe’s most promising young goalkeepers.",
@@ -49,14 +45,15 @@
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 5,
+          "quantity": 6,
           "img": "LaLiga",
           "years": {
             "0": "2014/15",
             "1": "2015/16",
             "2": "2017/18",
             "3": "2018/19",
-            "4": "2022/23"
+            "4": "2022/23",
+            "5": "2024/25"
           }
         },
         "UCL": {
@@ -70,27 +67,29 @@
         },
         "CopaDelRey": {
           "club": "Barcelona",
-          "title": "Copa Del Rey",
-          "quantity": 5,
+          "title": "Copa del Rey",
+          "quantity": 6,
           "img": "CopaDelRey",
           "years": {
             "0": "2014/15",
             "1": "2015/16",
             "2": "2016/17",
             "3": "2017/18",
-            "4": "2020/21"
+            "4": "2020/21",
+            "5": "2024/25"
           }
         },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 4,
+          "quantity": 5,
           "img": "SpanishSuperCup",
           "years": {
             "0": "2016/17",
             "1": "2018/19",
             "2": "2022/23",
-            "3": "2024/25"
+            "3": "2024/25",
+            "4": "2025/26"
           }
         },
         "ClubWorldCup": {
@@ -140,18 +139,14 @@
       "img": "JoanGarcia",
       "number": "13",
       "stats": {
-        "matches": "9",
-        "clean": "4",
-        "saves": "24"
+        "matches": "19",
+        "clean": "9",
+        "saves": "57"
       },
       "currentStats": {
-        "matches": "9",
-        "clean": "4",
-        "saves": "24"
-      },
-      "allTimeStats": {
-        "matches": "93",
-        "clean": "30"
+        "matches": "19",
+        "clean": "9",
+        "saves": "57"
       },
       "title": "A goalkeeper with tremendous reflexes who can also play with the ball at his feet",
       "subtitle": "Joan Garcia came to FC Barcelona in the summer of 2025 after showing himself to be one of the best goalkeepers in La Liga in the previous campaign.",
@@ -164,11 +159,21 @@
       "details": {
         "placeOfBirth": "Sallent, Spain",
         "dateOfBirth": "04/05/2001",
-        "weight": "79kg",
-        "height": "191cm",
+        "weight": "85kg",
+        "height": "193cm",
         "clubDebut": "27/07/2025"
       },
-      "trophy": {}
+      "trophy": {
+        "SpanishSuperCup": {
+          "club": "Barcelona",
+          "title": "Spanish Super Cup",
+          "quantity": 1,
+          "img": "SpanishSuperCup",
+          "years": {
+            "0": "2025/26"
+          }
+        }
+      }
     },
     {
       "id": "szczesny",
@@ -179,18 +184,14 @@
       "img": "Szczesny",
       "number": "25",
       "stats": {
-        "matches": "9",
-        "clean": "4",
-        "saves": "18"
+        "matches": "39",
+        "clean": "13",
+        "saves": "88"
       },
       "currentStats": {
         "matches": "9",
-        "clean": "4",
-        "saves": "18"
-      },
-      "allTimeStats": {
-        "matches": "646",
-        "clean": "252"
+        "clean": "0",
+        "saves": "26"
       },
       "title": "With an admirable career in goal for Arsenal, Roma, and Juventus, Szczęsny is a vastly experienced international goalkeeper",
       "subtitle": "FC Barcelona and the player Wojciech Szczęsny reached an agreement for him to join the Club until 30 June 2025 after Ter Stegen picked up a long-term injury.",
@@ -209,13 +210,32 @@
         "clubDebut": "04/01/2025"
       },
       "trophy": {
+        "LaLiga": {
+          "club": "Barcelona",
+          "title": "La Liga",
+          "quantity": 1,
+          "img": "LaLiga",
+          "years": {
+            "0": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
+          }
+        },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 1,
+          "quantity": 2,
           "img": "SpanishSuperCup",
           "years": {
-            "0": "2024/25"
+            "0": "2024/25",
+            "1": "2025/26"
           }
         },
         "SerieA": {
@@ -266,6 +286,127 @@
   ],
   "defenders": [
     {
+      "id": "cancelo",
+      "name": "João",
+      "surname": "Cancelo",
+      "fullName": "João Pedro Cavaco Cancelo",
+      "position": "defender",
+      "img": "Cancelo",
+      "number": "2",
+      "stats": {
+        "matches": "42",
+        "goals": "4",
+        "assists": "5"
+      },
+      "currentStats": {
+        "matches": "0",
+        "goals": "0",
+        "assists": "0"
+      },
+      "title": "With an energy few can rival, he is tailor-made for both fullback positions and is the only player ever to join Barça twice on loan",
+      "subtitle": "Born in Barreiro, Portugal, on 27 May 1994, João Cancelo started out playing in his hometown before joining Benfica youth system.",
+      "bio": [
+        "Born in Barreiro, Portugal, on 27 May 1994, João Cancelo started out playing in his hometown before joining Benfica youth system.",
+        "He rose through the ranks and made his first team debut in 2013/14. After one year with the seniors, he was loaned to Valencia and eventually signed for them, spending three years there, including a season on loan at Inter Milan before switching to another of Italy's top clubs, Juventus.",
+        "His next stop was Manchester City, who he joined in 2019, playing there for two seasons, before going on loan to Bayern Munich in the 2022/23 season and then to FC Barcelona on a similar arrangement for 2023/24 season. His next move was to Saudi Arabia to play for Al Hilal.",
+        "After a season and a half, he is back at loan at Barça to play the second half of the 2025/26 season. He has already won several trophies in this career such as the league title in Portugal, Italy, and England.",
+        "Her joined the blaugranes in his first spell as an option for the right back position, but he often played on the left under Xavi Hernández. Furthermore, his final years at Manchester City saw him play a key midfield role under Pep Guardiola, starting from fullback but joining the play in the middle. As such, a very useful player for Hansi Flick given his versatility."
+      ],
+      "details": {
+        "placeOfBirth": "Barreiro, Portugal",
+        "dateOfBirth": "27/05/1994",
+        "weight": "74kg",
+        "height": "182cm",
+        "clubDebut": "01/09/2023"
+      },
+      "trophy": {
+        "APL": {
+          "club": "Manchester City",
+          "title": "Premier League",
+          "quantity": 3,
+          "img": "APL",
+          "years": {
+            "0": "2020/21",
+            "1": "2021/22",
+            "2": "2022/23"
+          }
+        },
+        "FACup": {
+          "club": "Manchester City",
+          "title": "FA Cup",
+          "quantity": 1,
+          "img": "FACup",
+          "years": {
+            "0": "2022/23"
+          }
+        },
+        "EnglishLeagueCup": {
+          "club": "Manchester City",
+          "title": "League Cup",
+          "quantity": 2,
+          "img": "EnglishLeagueCup",
+          "years": {
+            "0": "2019/20",
+            "1": "2020/21"
+          }
+        },
+        "Bundesliga": {
+          "club": "Bayern Munich",
+          "title": "Bundesliga",
+          "quantity": 1,
+          "img": "Bundesliga",
+          "years": {
+            "0": "2022/23"
+          }
+        },
+        "SerieA": {
+          "club": "Juventus",
+          "title": "Serie A",
+          "quantity": 1,
+          "img": "SerieA",
+          "years": {
+            "0": "2018/19"
+          }
+        },
+        "ItalianSuperCup": {
+          "club": "Juventus",
+          "title": "Supercoppa Italia",
+          "quantity": 1,
+          "img": "ItalianSuperCup",
+          "years": {
+            "0": "2018/19"
+          }
+        },
+        "PrimeiraLiga": {
+          "club": "Benfica",
+          "title": "Primeira Liga",
+          "quantity": 1,
+          "img": "PortugueseLiga",
+          "years": {
+            "0": "2013/14"
+          }
+        },
+        "TacaDaLiga": {
+          "club": "Benfica",
+          "title": "Taca da Liga",
+          "quantity": 1,
+          "img": "PortugueseLigaCup",
+          "years": {
+            "0": "2013/14"
+          }
+        },
+        "NationsLeague": {
+          "club": "Portugal",
+          "title": "UEFA Nations League",
+          "quantity": 1,
+          "img": "NationsLeague",
+          "years": {
+            "0": "2018/19"
+          }
+        }
+      }
+    },
+    {
       "id": "balde",
       "name": "Alejandro",
       "surname": "Balde",
@@ -274,19 +415,14 @@
       "img": "Balde",
       "number": "3",
       "stats": {
-        "matches": "114",
+        "matches": "150",
         "goals": "3",
-        "assists": "13"
+        "assists": "18"
       },
       "currentStats": {
-        "matches": "35",
-        "goals": "1",
-        "assists": "6"
-      },
-      "allTimeStats": {
-        "matches": "149",
-        "goals": "3",
-        "assists": "16"
+        "matches": "24",
+        "goals": "0",
+        "assists": "3"
       },
       "title": "Skill and strength make Alejandro Balde a fast, explosive fullback who can also support the attack",
       "subtitle": "Alejandro Balde, born in Barcelona to Guinean and Dominican parents, is a fast and explosive full back who joined Barça in 2011 at the age of eight after coming up through ranks at Espanyol.",
@@ -300,28 +436,39 @@
       "details": {
         "placeOfBirth": "Barcelona, Spain",
         "dateOfBirth": "18/10/2003",
-        "weight": "69kg",
-        "height": "175cm",
+        "weight": "76kg",
+        "height": "177cm",
         "clubDebut": "14/09/2021"
       },
       "trophy": {
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 1,
+          "quantity": 2,
           "img": "LaLiga",
           "years": {
-            "0": "2022/23"
+            "0": "2022/23",
+            "1": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 2,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
           }
         },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 2,
+          "quantity": 3,
           "img": "SpanishSuperCup",
           "years": {
             "0": "2022/23",
-            "1": "2024/25"
+            "1": "2024/25",
+            "2": "2025/26"
           }
         }
       }
@@ -334,24 +481,15 @@
       "position": "defender",
       "img": "Araujo",
       "number": "4",
-      "injured": {
-        "status": true,
-        "type": "Nervous breakdown"
-      },
       "stats": {
-        "matches": "158",
-        "goals": "9",
-        "assists": "6"
+        "matches": "191",
+        "goals": "12",
+        "assists": "7"
       },
       "currentStats": {
-        "matches": "8",
-        "goals": "1",
-        "assists": "1"
-      },
-      "allTimeStats": {
-        "matches": "272",
-        "goals": "24",
-        "assists": "16"
+        "matches": "16",
+        "goals": "2",
+        "assists": "0"
       },
       "title": "Uruguayan defender, strong in the air and capable with the ball at his feet",
       "subtitle": "Ronald Araujo was born in Rivera, Uruguay, on 7 March 1999. The young central defender began playing professionally for his hometown team, and later joined the lower categories at Rentistas in the Uruguayan Second Division.",
@@ -365,37 +503,40 @@
       "details": {
         "placeOfBirth": "Rivera, Uruguay",
         "dateOfBirth": "07/03/1999",
-        "weight": "79kg",
-        "height": "188cm",
-        "clubDebut": "06/10/2020"
+        "weight": "96kg",
+        "height": "191cm",
+        "clubDebut": "06/10/2019"
       },
       "trophy": {
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 1,
+          "quantity": 2,
           "img": "LaLiga",
           "years": {
-            "0": "2022/23"
+            "0": "2022/23",
+            "1": "2024/25"
           }
         },
         "CopaDelRey": {
           "club": "Barcelona",
-          "title": "Copa Del Rey",
-          "quantity": 1,
+          "title": "Copa del Rey",
+          "quantity": 2,
           "img": "CopaDelRey",
           "years": {
-            "0": "2020/21"
+            "0": "2020/21",
+            "1": "2024/25"
           }
         },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 2,
+          "quantity": 3,
           "img": "SpanishSuperCup",
           "years": {
             "0": "2022/23",
-            "1": "2024/25"
+            "1": "2024/25",
+            "2": "2025/26"
           }
         }
       }
@@ -409,19 +550,14 @@
       "img": "Cubarsi",
       "number": "5",
       "stats": {
-        "matches": "60",
+        "matches": "105",
         "goals": "1",
-        "assists": "4"
+        "assists": "5"
       },
       "currentStats": {
-        "matches": "36",
-        "goals": "1",
-        "assists": "3"
-      },
-      "allTimeStats": {
-        "matches": "77",
-        "goals": "1",
-        "assists": "4"
+        "matches": "25",
+        "goals": "0",
+        "assists": "0"
       },
       "title": "A centre back who provides leadership and decisiveness in defence, while also being able to bring the ball out",
       "subtitle": "Pau Cubarsí arrived at La Masia from Girona on 1 July 2018 as a U12 player. The 2023/24 season was a key moment in his career as he made his competitive debut with the first team.",
@@ -433,18 +569,37 @@
       "details": {
         "placeOfBirth": "Bescanó, Spain",
         "dateOfBirth": "22/01/2007",
-        "weight": "75kg",
-        "height": "184cm",
+        "weight": "79kg",
+        "height": "183cm",
         "clubDebut": "18/01/2024"
       },
       "trophy": {
+        "LaLiga": {
+          "club": "Barcelona",
+          "title": "La Liga",
+          "quantity": 1,
+          "img": "LaLiga",
+          "years": {
+            "0": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
+          }
+        },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 1,
+          "quantity": 2,
           "img": "SpanishSuperCup",
           "years": {
-            "0": "2024/25"
+            "0": "2024/25",
+            "1": "2025/26"
           }
         },
         "OlympicGames": {
@@ -466,20 +621,19 @@
       "position": "defender",
       "img": "Christensen",
       "number": "15",
+      "injured": {
+        "status": true,
+        "type": "?"
+      },
       "stats": {
-        "matches": "75",
-        "goals": "4",
+        "matches": "97",
+        "goals": "5",
         "assists": "3"
       },
       "currentStats": {
-        "matches": "1",
-        "goals": "0",
+        "matches": "17",
+        "goals": "1",
         "assists": "0"
-      },
-      "allTimeStats": {
-        "matches": "458",
-        "goals": "20",
-        "assists": "13"
       },
       "title": "Centre back with brilliant passing skills and a tremendous reading of the game. Fabulous and finding the right route to get the ball forward",
       "subtitle": "An excellent reader of the game and versatile centre back, Andreas Christensen (10 April 1996) was born in Lillerød (Denmark) where he started out at IF Skjold Birkerød, soon catching the eye of Brøndby IF.",
@@ -494,28 +648,39 @@
       "details": {
         "placeOfBirth": "Lillerød, Denmark",
         "dateOfBirth": "10/04/1996",
-        "weight": "82kg",
-        "height": "187cm",
+        "weight": "84kg",
+        "height": "189cm",
         "clubDebut": "13/08/2022"
       },
       "trophy": {
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 1,
+          "quantity": 2,
           "img": "LaLiga",
           "years": {
-            "0": "2022/23"
+            "0": "2022/23",
+            "1": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
           }
         },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 2,
+          "quantity": 3,
           "img": "SpanishSuperCup",
           "years": {
             "0": "2022/23",
-            "1": "2024/25"
+            "1": "2024/25",
+            "2": "2025/26"
           }
         },
         "UCL": {
@@ -565,12 +730,12 @@
       "img": "Martin",
       "number": "18",
       "stats": {
-        "matches": "58",
+        "matches": "69",
         "goals": "1",
         "assists": "6"
       },
       "currentStats": {
-        "matches": "16",
+        "matches": "27",
         "goals": "0",
         "assists": "0"
       },
@@ -599,7 +764,7 @@
         },
         "CopaDelRey": {
           "club": "Barcelona",
-          "title": "Copa Del Rey",
+          "title": "Copa del Rey",
           "quantity": 1,
           "img": "CopaDelRey",
           "years": {
@@ -609,10 +774,11 @@
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 1,
+          "quantity": 2,
           "img": "SpanishSuperCup",
           "years": {
-            "0": "2024/25"
+            "0": "2024/25",
+            "1": "2025/26"
           }
         }
       }
@@ -626,19 +792,14 @@
       "img": "Kounde",
       "number": "23",
       "stats": {
-        "matches": "124",
-        "goals": "6",
-        "assists": "17"
+        "matches": "169",
+        "goals": "10",
+        "assists": "20"
       },
       "currentStats": {
-        "matches": "36",
+        "matches": "28",
         "goals": "3",
-        "assists": "7"
-      },
-      "allTimeStats": {
-        "matches": "396",
-        "goals": "20",
-        "assists": "22"
+        "assists": "2"
       },
       "title": "Jules Kounde is known for being a very fast defender, quick to intercept, and being good on the ball",
       "subtitle": "Jules Kounde was born in Paris on November 12, 1998. His family originally came from Benin. He started playing for small clubs in the outskirts of Bordeaux in Southwest France. He first passed a trial at the age of 14 years old and joined the youth ranks of the professional team, FC Girondins de Bordeaux.",
@@ -652,28 +813,39 @@
       "details": {
         "placeOfBirth": "Paris, France",
         "dateOfBirth": "12/11/1998",
-        "weight": "75kg",
-        "height": "180cm",
+        "weight": "84kg",
+        "height": "181cm",
         "clubDebut": "28/08/2022"
       },
       "trophy": {
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 1,
+          "quantity": 2,
           "img": "LaLiga",
           "years": {
-            "0": "2022/23"
+            "0": "2022/23",
+            "1": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
           }
         },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 2,
+          "quantity": 3,
           "img": "SpanishSuperCup",
           "years": {
             "0": "2022/23",
-            "1": "2024/25"
+            "1": "2024/25",
+            "2": "2025/26"
           }
         },
         "UEL": {
@@ -705,19 +877,14 @@
       "img": "Garcia",
       "number": "24",
       "stats": {
-        "matches": "92",
-        "goals": "4",
-        "assists": "3"
+        "matches": "142",
+        "goals": "7",
+        "assists": "6"
       },
       "currentStats": {
-        "matches": "22",
-        "goals": "3",
+        "matches": "29",
+        "goals": "1",
         "assists": "1"
-      },
-      "allTimeStats": {
-        "matches": "231",
-        "goals": "15",
-        "assists": "5"
       },
       "title": "Centre back who excels at getting the ball out from the back and has an instinctive ability to read the game",
       "subtitle": "A player of massive potential, he is the classic Barça defender. He likes to play the ball out of with his feet, is extremely smart at reading his opponents’ moves and reads the game with instinctive precision. Eric Garcia returned to Barça in the summer of 2021 from Manchester City. He originally joined the Barça Escola in 2008 and resided at La Masia until 2017.",
@@ -733,28 +900,39 @@
       "details": {
         "placeOfBirth": "Martorell, Spain",
         "dateOfBirth": "09/01/2001",
-        "weight": "76kg",
-        "height": "182cm",
+        "weight": "77kg",
+        "height": "180cm",
         "clubDebut": "15/08/2021"
       },
       "trophy": {
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 1,
+          "quantity": 2,
           "img": "LaLiga",
           "years": {
-            "0": "2022/23"
+            "0": "2022/23",
+            "1": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
           }
         },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 2,
+          "quantity": 3,
           "img": "SpanishSuperCup",
           "years": {
             "0": "2022/23",
-            "1": "2024/25"
+            "1": "2024/25",
+            "2": "2025/26"
           }
         },
         "APL": {
@@ -830,19 +1008,14 @@
         "type": "Knee injury"
       },
       "stats": {
-        "matches": "133",
-        "goals": "9",
+        "matches": "155",
+        "goals": "10",
         "assists": "14"
       },
       "currentStats": {
-        "matches": "22",
-        "goals": "2",
-        "assists": "2"
-      },
-      "allTimeStats": {
-        "matches": "165",
-        "goals": "14",
-        "assists": "17"
+        "matches": "2",
+        "goals": "0",
+        "assists": "1"
       },
       "title": "Technically gifted midfielder with plenty of character and a good reader of the game",
       "subtitle": "A combative and technically gifted midfielder Pablo Páez Gavira, better known as 'Gavi', was born in the town of Los Palacios y Villafranca near Seville. As a youngster he made his way to the youth system at Real Betis where he spent two seasons representing the verdiblancos at the Luis del Sol training complex just a stone's throw from the Benito Villamarín stadium.",
@@ -855,28 +1028,39 @@
       "details": {
         "placeOfBirth": "Los Palacios y Villafranca, Spain",
         "dateOfBirth": "05/08/2004",
-        "weight": "70kg",
-        "height": "173cm",
+        "weight": "69kg",
+        "height": "174cm",
         "clubDebut": "01/07/2021"
       },
       "trophy": {
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 1,
+          "quantity": 2,
           "img": "LaLiga",
           "years": {
-            "0": "2022/23"
+            "0": "2022/23",
+            "1": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
           }
         },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 2,
+          "quantity": 3,
           "img": "SpanishSuperCup",
           "years": {
             "0": "2022/23",
-            "1": "2024/25"
+            "1": "2024/25",
+            "2": "2025/26"
           }
         },
         "GoldenBoy": {
@@ -908,19 +1092,14 @@
       "img": "Pedri",
       "number": "8",
       "stats": {
-        "matches": "183",
-        "goals": "25",
-        "assists": "19"
+        "matches": "225",
+        "goals": "28",
+        "assists": "28"
       },
       "currentStats": {
-        "matches": "40",
-        "goals": "5",
-        "assists": "6"
-      },
-      "allTimeStats": {
-        "matches": "250",
-        "goals": "31",
-        "assists": "28"
+        "matches": "23",
+        "goals": "2",
+        "assists": "7"
       },
       "title": "The player enjoys playing on the front foot, driving at his direct opponent and having his passes break the defensive lines",
       "subtitle": "On September 2, 2019, FC Barcelona and Las Palmas reached an agreement for the transfer of Pedri. However, the Canarian player didn't join the blaugranes until August 2020. Born in Tegueste, Tenerife, on November 25, 2002, he began his football career in the team from his hometown.",
@@ -936,7 +1115,7 @@
       "details": {
         "placeOfBirth": "Tegueste, Spain",
         "dateOfBirth": "25/11/2002",
-        "weight": "60kg",
+        "weight": "68kg",
         "height": "174cm",
         "clubDebut": "27/09/2020"
       },
@@ -944,38 +1123,32 @@
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 1,
-          "img": "LaLiga",
-          "years": {
-            "0": "2022/23"
-          }
-        },
-        "CopaDelRey": {
-          "club": "Barcelona",
-          "title": "Copa Del Rey",
-          "quantity": 1,
-          "img": "CopaDelRey",
-          "years": {
-            "0": "2020/21"
-          }
-        },
-        "SpanishSuperCup": {
-          "club": "Barcelona",
-          "title": "Spanish Super Cup",
           "quantity": 2,
-          "img": "SpanishSuperCup",
+          "img": "LaLiga",
           "years": {
             "0": "2022/23",
             "1": "2024/25"
           }
         },
-        "NationsLeague": {
-          "club": "Spain",
-          "title": "UEFA Nations League",
-          "quantity": 1,
-          "img": "",
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 2,
+          "img": "CopaDelRey",
           "years": {
-            "0": "2023"
+            "0": "2020/21",
+            "1": "2024/25"
+          }
+        },
+        "SpanishSuperCup": {
+          "club": "Barcelona",
+          "title": "Spanish Super Cup",
+          "quantity": 3,
+          "img": "SpanishSuperCup",
+          "years": {
+            "0": "2022/23",
+            "1": "2024/25",
+            "2": "2025/26"
           }
         },
         "EuropeanChampionships": {
@@ -985,6 +1158,15 @@
           "img": "EuroCup",
           "years": {
             "0": "2024"
+          }
+        },
+        "NationsLeague": {
+          "club": "Spain",
+          "title": "UEFA Nations League",
+          "quantity": 1,
+          "img": "",
+          "years": {
+            "0": "2023"
           }
         },
         "GoldenBoy": {
@@ -1016,19 +1198,14 @@
       "img": "Fermin",
       "number": "16",
       "stats": {
-        "matches": "67",
-        "goals": "16",
-        "assists": "5"
+        "matches": "109",
+        "goals": "27",
+        "assists": "19"
       },
       "currentStats": {
-        "matches": "25",
-        "goals": "5",
-        "assists": "5"
-      },
-      "allTimeStats": {
-        "matches": "116",
-        "goals": "28",
-        "assists": "11"
+        "matches": "22",
+        "goals": "8",
+        "assists": "10"
       },
       "title": "Culer since 2016/17, the midfielder from La Masia is now an established first team player",
       "subtitle": "Fermín López Marín was part of the Campillo youth setup in his home town, and then signed for Recreativo Huelva. After one season, in 2011/12 he moved to Real Betis Balompié and four years later entered La Masía as an U14.",
@@ -1043,19 +1220,38 @@
       "details": {
         "placeOfBirth": "El Campillo, Spain",
         "dateOfBirth": "11/05/2003",
-        "weight": "64kg",
-        "height": "174cm",
+        "weight": "73kg",
+        "height": "176cm",
         "clubDebut": "29/07/2023"
       },
       "trophy": {
+        "LaLiga": {
+          "club": "Barcelona",
+          "title": "La Liga",
+          "quantity": 1,
+          "img": "LaLiga",
+          "years": {
+            "0": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
+          }
+        },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 2,
+          "quantity": 3,
           "img": "SpanishSuperCup",
           "years": {
             "0": "2022/23",
-            "1": "2024/25"
+            "1": "2024/25",
+            "2": "2025/26"
           }
         },
         "EuropeanChampionships": {
@@ -1087,17 +1283,14 @@
       "img": "Casado",
       "number": "17",
       "stats": {
-        "matches": "35",
-        "assists": "6"
+        "matches": "60",
+        "goals": "1",
+        "assists": "7"
       },
       "currentStats": {
-        "matches": "30",
-        "assists": "6"
-      },
-      "allTimeStats": {
-        "matches": "116",
-        "goals": "1",
-        "assists": "8"
+        "matches": "19",
+        "goals": "0",
+        "assists": "1"
       },
       "title": "La Masía trained midfielder known for hard work, quality, and leadership",
       "subtitle": "Born in Sant Pere de Vilamajor in 2003 and a defensive central midfielder who provides a lot of balance to the team, Marc Casadó left Damm to join the Club for the 2016 season. The Catalan midfielder has stood out throughout his time in youth development at Barça, becoming one of the leaders of the squad.",
@@ -1110,18 +1303,37 @@
       "details": {
         "placeOfBirth": "Sant Pere de Vilamajor, Spain",
         "dateOfBirth": "14/09/2003",
-        "weight": "66kg",
-        "height": "172cm",
+        "weight": "65kg",
+        "height": "171cm",
         "clubDebut": "01/11/2022"
       },
       "trophy": {
+        "LaLiga": {
+          "club": "Barcelona",
+          "title": "La Liga",
+          "quantity": 1,
+          "img": "LaLiga",
+          "years": {
+            "0": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
+          }
+        },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 1,
+          "quantity": 2,
           "img": "SpanishSuperCup",
           "years": {
-            "0": "2024/25"
+            "0": "2024/25",
+            "1": "2025/26"
           }
         }
       }
@@ -1134,24 +1346,15 @@
       "position": "midfielder",
       "img": "Olmo",
       "number": "20",
-      "injured": {
-        "status": true,
-        "type": "Shoulder injury"
-      },
       "stats": {
-        "matches": "20",
-        "goals": "6",
-        "assists": "3"
+        "matches": "60",
+        "goals": "17",
+        "assists": "8"
       },
       "currentStats": {
-        "matches": "20",
-        "goals": "6",
-        "assists": "3"
-      },
-      "allTimeStats": {
-        "matches": "375",
-        "goals": "85",
-        "assists": "78"
+        "matches": "21",
+        "goals": "5",
+        "assists": "2"
       },
       "title": "A goalscorer and a versatile addition who can in midfield or up front",
       "subtitle": "An attack minded forward who can play anywhere up front and in midfield Dani Olmo, born on 7 May 1998 in Terrassa, Catalonia, arrived at La Masia in 2007 from neighbours Espanyol and after seven years in the blaugrana youth system, the Catalan decided to further his career in Croatia, signing for Dinamo Zagreb.",
@@ -1166,18 +1369,37 @@
       "details": {
         "placeOfBirth": "Terrassa, Spain",
         "dateOfBirth": "07/05/1998",
-        "weight": "72kg",
-        "height": "179cm",
+        "weight": "73kg",
+        "height": "182cm",
         "clubDebut": "09/08/2024"
       },
       "trophy": {
+        "LaLiga": {
+          "club": "Barcelona",
+          "title": "La Liga",
+          "quantity": 1,
+          "img": "LaLiga",
+          "years": {
+            "0": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
+          }
+        },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 1,
+          "quantity": 2,
           "img": "SpanishSuperCup",
           "years": {
-            "0": "2024/25"
+            "0": "2024/25",
+            "1": "2025/26"
           }
         },
         "EuropeanChampionships": {
@@ -1270,19 +1492,14 @@
       "img": "deJong",
       "number": "21",
       "stats": {
-        "matches": "241",
+        "matches": "281",
         "goals": "19",
-        "assists": "20"
+        "assists": "25"
       },
       "currentStats": {
-        "matches": "28",
-        "goals": "2",
-        "assists": "1"
-      },
-      "allTimeStats": {
-        "matches": "463",
-        "goals": "41",
-        "assists": "54"
+        "matches": "23",
+        "goals": "0",
+        "assists": "4"
       },
       "title": "His versatility, energy and great vision have allowed him to continue developing his skills in any midfield position",
       "subtitle": "Frenkie de Jong was born in Arkel (Netherlands) on May 12, 1997. The Barça player started his career at Willem II in the Eredivise, the Dutch first division. In 2016 he signed for Ajax, where he gradually gained a place in the starting eleven. His versatility and his great vision allowed him to become the midfield organiser for the team from Amsterdam.",
@@ -1295,39 +1512,42 @@
         "An important part of the Netherlands national side, Frenkie de Jong was part of the team that was runner up in the UEFA Nations League in 2019. The midfielder also played in Euro 2020 and the World Cup in 2022 when the Dutch went out to eventual winners Argentina on penalties in the quarter finals."
       ],
       "details": {
-        "placeOfBirth": "Arkel, Netherlands",
+        "placeOfBirth": "Gorinchem, Netherlands",
         "dateOfBirth": "12/05/1997",
-        "weight": "74kg",
-        "height": "181cm",
+        "weight": "75kg",
+        "height": "182cm",
         "clubDebut": "16/08/2019"
       },
       "trophy": {
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 1,
+          "quantity": 2,
           "img": "LaLiga",
           "years": {
-            "0": "2022/23"
+            "0": "2022/23",
+            "1": "2024/25"
           }
         },
         "CopaDelRey": {
           "club": "Barcelona",
-          "title": "Copa Del Rey",
-          "quantity": 1,
+          "title": "Copa del Rey",
+          "quantity": 2,
           "img": "CopaDelRey",
           "years": {
-            "0": "2020/21"
+            "0": "2020/21",
+            "1": "2024/25"
           }
         },
         "SpanishSuperCup": {
           "club": "Barcelona",
           "title": "Spanish Super Cup",
-          "quantity": 2,
+          "quantity": 3,
           "img": "SpanishSuperCup",
           "years": {
             "0": "2022/23",
-            "1": "2024/25"
+            "1": "2024/25",
+            "2": "2025/26"
           }
         },
         "Eredivisie": {
@@ -1357,13 +1577,13 @@
       "fullName": "Marc Bernal Casas",
       "position": "midfielder",
       "img": "Bernal",
-      "number": "21",
+      "number": "22",
       "stats": {
-        "matches": "9",
+        "matches": "15",
         "assists": "1"
       },
       "currentStats": {
-        "matches": "9",
+        "matches": "12",
         "assists": "1"
       },
       "title": "Holding midfielder with great tactical awareness and defensive abilities",
@@ -1389,6 +1609,15 @@
           "years": {
             "0": "2024/25"
           }
+        },
+        "SpanishSuperCup": {
+          "club": "Barcelona",
+          "title": "Spanish Super Cup",
+          "quantity": 1,
+          "img": "SpanishSuperCup",
+          "years": {
+            "0": "2025/26"
+          }
         }
       }
     }
@@ -1403,13 +1632,13 @@
       "img": "Torres",
       "number": "7",
       "stats": {
-        "matches": "173",
-        "goals": "53",
+        "matches": "183",
+        "goals": "59",
         "assists": "20"
       },
       "currentStats": {
-        "matches": "16",
-        "goals": "9",
+        "matches": "26",
+        "goals": "15",
         "assists": "1"
       },
       "title": "He brings together various talents which allow him to operate anywhere up front",
@@ -1442,6 +1671,26 @@
             "1": "2024/25"
           }
         },
+        "CopaDelReyBarca": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
+          }
+        },
+        "SpanishSuperCup": {
+          "club": "Barcelona",
+          "title": "Spanish Super Cup",
+          "quantity": 3,
+          "img": "SpanishSuperCup",
+          "years": {
+            "0": "2022/23",
+            "1": "2024/25",
+            "2": "2025/26"
+          }
+        },
         "EuropeanChampionships": {
           "club": "Spain",
           "title": "European Championships",
@@ -1449,16 +1698,6 @@
           "img": "EuroCup",
           "years": {
             "0": "2024"
-          }
-        },
-        "SpanishSuperCup": {
-          "club": "Barcelona",
-          "title": "Spanish Super Cup",
-          "quantity": 2,
-          "img": "SpanishSuperCup",
-          "years": {
-            "0": "2022/23",
-            "1": "2024/25"
           }
         },
         "APL": {
@@ -1481,7 +1720,7 @@
         },
         "CopaDelRey": {
           "club": "Valencia",
-          "title": "Copa Del Rey",
+          "title": "Copa del Rey",
           "quantity": 2,
           "img": "CopaDelRey",
           "years": {
@@ -1527,19 +1766,14 @@
       "img": "Lewandowski",
       "number": "9",
       "stats": {
-        "matches": "128",
-        "goals": "90",
-        "assists": "20"
+        "matches": "168",
+        "goals": "111",
+        "assists": "21"
       },
       "currentStats": {
-        "matches": "14",
-        "goals": "26",
-        "assists": "5"
-      },
-      "allTimeStats": {
-        "matches": "964",
-        "goals": "685",
-        "assists": "190"
+        "matches": "21",
+        "goals": "10",
+        "assists": "1"
       },
       "title": "One of the best strikers ever, the Polish forward's stats speak for themselves",
       "subtitle": "The striker from Poland stands out for his goalscoring abilities. Inside the box he has all the tools to make him a difficult striker to read as he can find the net with his head and both feet with equal precision.",
@@ -1558,7 +1792,7 @@
         "placeOfBirth": "Warszawa, Poland",
         "dateOfBirth": "21/08/1988",
         "weight": "81kg",
-        "height": "185cm",
+        "height": "186cm",
         "clubDebut": "12/09/2022"
       },
       "trophy": {
@@ -1572,23 +1806,24 @@
             "1": "2024/25"
           }
         },
-        "SpanishSuperCup": {
-          "club": "Barcelona",
-          "title": "Spanish Super Cup",
-          "quantity": 2,
-          "img": "SpanishSuperCup",
-          "years": {
-            "0": "2022/23",
-            "1": "2024/25"
-          }
-        },
         "CopaDelRey": {
           "club": "Barcelona",
-          "title": "Copa Del Rey",
+          "title": "Copa del Rey",
           "quantity": 1,
           "img": "CopaDelRey",
           "years": {
             "0": "2024/25"
+          }
+        },
+        "SpanishSuperCup": {
+          "club": "Barcelona",
+          "title": "Spanish Super Cup",
+          "quantity": 3,
+          "img": "SpanishSuperCup",
+          "years": {
+            "0": "2022/23",
+            "1": "2024/25",
+            "2": "2025/26"
           }
         },
         "UCL": {
@@ -1714,14 +1949,14 @@
       "img": "Yamal",
       "number": "10",
       "stats": {
-        "matches": "119",
-        "goals": "30",
-        "assists": "35"
+        "matches": "130",
+        "goals": "34",
+        "assists": "38"
       },
       "currentStats": {
-        "matches": "13",
-        "goals": "6",
-        "assists": "7"
+        "matches": "24",
+        "goals": "10",
+        "assists": "10"
       },
       "title": "A great talent from La Masia who stands out for his daring dribbling.",
       "subtitle": "Lamine Yamal arrived at FC Barcelona at the age of 7 from his local club CF La Torreta. At La Masia he raced through the age categories quicker than any other player of his generation.",
@@ -1738,17 +1973,37 @@
         "placeOfBirth": "Esplugues de Llobregat, Spain",
         "dateOfBirth": "13/07/2007",
         "weight": "72kg",
-        "height": "180cm",
+        "height": "179cm",
         "clubDebut": "13/07/2023"
       },
       "trophy": {
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 1,
+          "quantity": 2,
           "img": "LaLiga",
           "years": {
-            "0": "2022/23"
+            "0": "2022/23",
+            "1": "2024/25"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
+            "0": "2024/25"
+          }
+        },
+        "SpanishSuperCup": {
+          "club": "Barcelona",
+          "title": "Spanish Super Cup",
+          "quantity": 2,
+          "img": "SpanishSuperCup",
+          "years": {
+            "0": "2024/25",
+            "1": "2025/26"
           }
         },
         "EuropeanChampionships": {
@@ -1758,15 +2013,6 @@
           "img": "EuroCup",
           "years": {
             "0": "2024"
-          }
-        },
-        "SpanishSuperCup": {
-          "club": "Barcelona",
-          "title": "Spanish Super Cup",
-          "quantity": 1,
-          "img": "SpanishSuperCup",
-          "years": {
-            "0": "2024/25"
           }
         },
         "GoldenBoy": {
@@ -1798,19 +2044,14 @@
       "img": "Raphinha",
       "number": "11",
       "stats": {
-        "matches": "122",
-        "goals": "44",
-        "assists": "36"
+        "matches": "162",
+        "goals": "65",
+        "assists": "50"
       },
       "currentStats": {
-        "matches": "35",
-        "goals": "24",
-        "assists": "13"
-      },
-      "allTimeStats": {
-        "matches": "404",
-        "goals": "117",
-        "assists": "87"
+        "matches": "18",
+        "goals": "11",
+        "assists": "5"
       },
       "title": "A technically gifted, skill winger with great dribbling skills and combination play",
       "subtitle": "A technically proficient winger, with good dribbling, decision making and  an appealing and attractive style of play Raphael Dias Belloli (Raphinha) was born on 14 December 1996 in Porto Alegre, Brazil. He joined the Club from Leeds United in summer 2022.",
@@ -1826,7 +2067,7 @@
       "details": {
         "placeOfBirth": "Porto Alegre, Brasil",
         "dateOfBirth": "14/12/1996",
-        "weight": "68kg",
+        "weight": "72kg",
         "height": "176cm",
         "clubDebut": "19/07/2022"
       },
@@ -1841,39 +2082,40 @@
             "1": "2024/25"
           }
         },
-        "SpanishSuperCup": {
-          "club": "Barcelona",
-          "title": "Spanish Super Cup",
-          "quantity": 2,
-          "img": "SpanishSuperCup",
-          "years": {
-            "0": "2022/23",
-            "1": "2024/25"
-          }
-        },
         "CopaDelRey": {
           "club": "Barcelona",
-          "title": "Copa Del Rey",
+          "title": "Copa del Rey",
           "quantity": 1,
           "img": "CopaDelRey",
           "years": {
             "0": "2024/25"
           }
         },
+        "SpanishSuperCup": {
+          "club": "Barcelona",
+          "title": "Spanish Super Cup",
+          "quantity": 3,
+          "img": "SpanishSuperCup",
+          "years": {
+            "0": "2022/23",
+            "1": "2024/25",
+            "2": "2025/26"
+          }
+        },
         "TacaDePortugal": {
           "club": "Sporting",
-          "title": "Taça de Portugal",
+          "title": "Taca de Portugal",
           "quantity": 1,
-          "img": "",
+          "img": "PortugueseCup",
           "years": {
             "0": "2018/19"
           }
         },
         "TacaDaLiga": {
           "club": "Sporting",
-          "title": "Taça da Liga",
+          "title": "Taca da Liga",
           "quantity": 1,
-          "img": "",
+          "img": "PortugueseLeagueCup",
           "years": {
             "0": "2018/19"
           }
@@ -1889,14 +2131,14 @@
       "img": "Rashford",
       "number": "14",
       "stats": {
-        "matches": "17",
-        "goals": "6",
-        "assists": "7"
+        "matches": "28",
+        "goals": "7",
+        "assists": "8"
       },
       "currentStats": {
-        "matches": "17",
-        "goals": "6",
-        "assists": "7"
+        "matches": "28",
+        "goals": "7",
+        "assists": "8"
       },
       "title": "Right footed, he can play anywhere up front, take players on and is an excellent finisher",
       "subtitle": "In July 2025 FC Barcelona and Manchester United reached an agreement for the loan of Marcus Rashford, the English striker becoming part of Hansi Flick's squad.",
@@ -1914,6 +2156,15 @@
         "clubDebut": "23/07/2025"
       },
       "trophy": {
+        "SpanishSuperCup": {
+          "club": "Barcelona",
+          "title": "Spanish Super Cup",
+          "quantity": 1,
+          "img": "SpanishSuperCup",
+          "years": {
+            "0": "2025/26"
+          }
+        },
         "UEL": {
           "club": "Manchester United",
           "title": "Europa League",
@@ -1936,7 +2187,7 @@
         "EnglishLeagueCup": {
           "club": "Manchester United",
           "title": "League Cup",
-          "quantity": 1,
+          "quantity": 2,
           "img": "EnglishLeagueCup",
           "years": {
             "0": "2016/17",
@@ -1952,14 +2203,16 @@
       "fullName": "Roony Bardghji",
       "position": "forward",
       "img": "Bardghji",
-      "number": "28",
+      "number": "19",
       "stats": {
-        "matches": "9",
-        "assists": "1"
+        "matches": "14",
+        "goals": "2",
+        "assists": "4"
       },
       "currentStats": {
-        "matches": "9",
-        "assists": "1"
+        "matches": "14",
+        "goals": "2",
+        "assists": "4"
       },
       "title": "A young right winger known for his skill, pace and goalscoring ability, qualities that make him a very good prospect",
       "subtitle": "FC Barcelona and FC Copenhagen came to an agreement for the transfer of Roony Bardghji in the summer of 2025. The Swedish player became another young talent on the Barça books after his move to the Catalan capital.",
@@ -1978,6 +2231,15 @@
         "clubDebut": "14/07/2025"
       },
       "trophy": {
+        "SpanishSuperCup": {
+          "club": "Barcelona",
+          "title": "Spanish Super Cup",
+          "quantity": 1,
+          "img": "SpanishSuperCup",
+          "years": {
+            "0": "2025/26"
+          }
+        },
         "DanishSuperLeague": {
           "club": "Copenhagen",
           "title": "Danish Super League",
@@ -2011,18 +2273,6 @@
       "position": "coach",
       "img": "Flick",
       "number": "",
-      "stats": {
-        "matches": "41",
-        "wins": "30"
-      },
-      "currentStats": {
-        "matches": "41",
-        "wins": "30"
-      },
-      "allTimeStats": {
-        "matches": "347",
-        "wins": "200"
-      },
       "title": "The German coach has great experience at club and international level and won six trophies in 2020 with Bayern Munich",
       "subtitle": "In the summer of 2024 FC Barcelona and Hansi Flick came to an agreement for the coach to take over at the Club until 30 June 2026.",
       "bio": [
