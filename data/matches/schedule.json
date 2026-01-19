@@ -1,41 +1,6 @@
 {
   "January 2026": [
     {
-      "id": 2,
-      "dateInfo": {
-        "weekday": "Sunday",
-        "date": "18",
-        "month": "January",
-        "time": "21:00"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 20",
-        "stadium": "Estadio Municipal de Anoeta"
-      },
-      "owner": {
-        "title": "Real Sociedad",
-        "img": "RealSociedad",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    },
-    {
       "id": 3,
       "dateInfo": {
         "weekday": "Wednesday",

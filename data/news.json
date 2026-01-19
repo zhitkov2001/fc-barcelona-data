@@ -1,5 +1,48 @@
 [
   {
+    "id": 5,
+    "month": "january",
+    "date": "19",
+    "cover": "real-sociedad-barcelona",
+    "title": "Real Sociedad 2-1 FC Barcelona",
+    "subtitle": "25 shots, five onto the woodwork, are not enough to avoid a luckless loss in San Sebastian",
+    "category": "first team",
+    "relatedPlayers": [],
+    "content": [
+      {
+        "id": "p1",
+        "type": "paragraph",
+        "text": "FC Barcelona have suffered an unlucky 2-1 defeat at Real Sociedad, despite dominating large parts of the game and having no fewer than five shots hit the woodwork. A first half goal from Mikel Oyarzabal and a second from Alexander Isak either side of a Ferran Torres equaliser were enough to give the Basques all three points on a frustrating night for the Liga leaders."
+      },
+      {
+        "id": "p2",
+        "type": "paragraph",
+        "text": "Barça had 25 shots in total, with 10 on target, but were unable to find a way past Álex Remiro, who made a number of fine saves to keep his side in the game. The result means that Barça’s lead at the top of the table is down to just two points, with Atlético Madrid now just a single point behind them having played a game less."
+      },
+      {
+        "id": "h1",
+        "type": "heading",
+        "level": 2,
+        "text": "Oyarzabal puts Sociedad ahead"
+      },
+      {
+        "id": "p3",
+        "type": "paragraph",
+        "text": "Hansi Flick made three changes to the side that beat Racing Santander in the Copa del Rey on Tuesday, with Raphinha, Pedri and Frenkie de Jong coming in for Marcus Rashford, Robert Lewandowski and Gavi."
+      },
+      {
+        "id": "p4",
+        "type": "paragraph",
+        "text": "Barça started strongly and had the first chance of the game when Raphinha’s cross found Ferran Torres, whose header was well saved by Remiro. But Sociedad soon settled and took the lead on 22 minutes. A long ball forward found Mikel Oyarzabal, who controlled it well before firing a low shot past Joan García from just inside the box."
+      },
+      {
+        "id": "p5",
+        "type": "paragraph",
+        "text": "Barça responded well and almost equalised straight away. A fine run from Pedri down the left saw him cut inside and unleash a powerful shot that crashed against the post. The rebound fell to Frenkie de Jong, whose effort was again well saved by Remiro."
+      }
+    ]
+  },
+  {
     "id": 4,
     "month": "january",
     "date": "16",
