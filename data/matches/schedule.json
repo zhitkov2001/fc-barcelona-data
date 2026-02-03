@@ -1,157 +1,47 @@
 {
-  "January 2026": [
-    {
-      "id": 3,
-      "dateInfo": {
-        "weekday": "Wednesday",
-        "date": "21",
-        "month": "January",
-        "time": "21:00"
-      },
-      "competition": { "img": "UCL", "title": "UEFA Champions League" },
-      "stageInfo": {
-        "stage": "Matchday 7",
-        "stadium": "Fortuna Arena"
-      },
-      "owner": {
-        "title": "Slavia Praha",
-        "img": "SlaviaPraha",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    },
-    {
-      "id": 5,
-      "dateInfo": {
-        "weekday": "Sunday",
-        "date": "25",
-        "month": "January",
-        "time": "16:15"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 21",
-        "stadium": "Spotify Camp Nou"
-      },
-      "owner": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "Real Oviedo",
-        "img": "Oviedo",
-
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    },
-    {
-      "id": 6,
-      "dateInfo": {
-        "weekday": "Wednesday",
-        "date": "28",
-        "month": "January",
-        "time": "21:00"
-      },
-      "competition": { "img": "UCL", "title": "UEFA Champions League" },
-      "stageInfo": {
-        "stage": "Matchday 8",
-        "stadium": "Spotify Camp Nou"
-      },
-      "owner": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "Copenhagen",
-        "img": "Copenhagen",
-
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    },
-    {
-      "id": 7,
-      "dateInfo": {
-        "weekday": "Saturday",
-        "date": "31",
-        "month": "January",
-        "time": "21:00"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 22",
-        "stadium": "Martínez Valero"
-      },
-      "owner": {
-        "title": "Elche",
-        "img": "Elche",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    }
-  ],
   "February 2026": [
+    {
+      "id": 0,
+      "dateInfo": {
+        "weekday": "Tuesday",
+        "date": "03",
+        "month": "February",
+        "time": "21:00"
+      },
+      "competition": { "img": "CopaDelRey", "title": "Copa del Rey" },
+      "stageInfo": {
+        "stage": "Quarter-finals",
+        "stadium": "Carlos Belmonte"
+      },
+      "owner": {
+        "title": "Albacete",
+        "img": "Albacete",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "score": {
+        "owner": null,
+        "guest": null
+      },
+      "guest": {
+        "title": "FC Barcelona",
+        "img": "Barcelona",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "matchBackground": ""
+    },
     {
       "id": 1,
       "dateInfo": {
         "weekday": "Sunday",
-        "date": "08",
+        "date": "07",
         "month": "February",
-        "time": "TBA"
+        "time": "16:15"
       },
       "competition": { "img": "LaLiga", "title": "La Liga" },
       "stageInfo": {
@@ -178,15 +68,15 @@
           "subtitution": {}
         }
       },
-      "matchBackground": "SeoulBarcelona"
+      "matchBackground": ""
     },
     {
       "id": 2,
       "dateInfo": {
         "weekday": "Sunday",
-        "date": "15",
+        "date": "16",
         "month": "February",
-        "time": "TBA"
+        "time": "21:00"
       },
       "competition": { "img": "LaLiga", "title": "La Liga" },
       "stageInfo": {
@@ -221,7 +111,7 @@
         "weekday": "Sunday",
         "date": "22",
         "month": "February",
-        "time": "TBA"
+        "time": "16:15"
       },
       "competition": { "img": "LaLiga", "title": "La Liga" },
       "stageInfo": {
