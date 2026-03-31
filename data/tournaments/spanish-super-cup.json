@@ -2,7 +2,7 @@
   "title": "Spanish Supercup",
   "type": "cup",
   "seasons": {
-    "2024/25": {
+    "2025/26": {
       "teams": [{ "teamId": 9 }, { "teamId": 11 }, { "teamId": 13 }, { "teamId": 92 }],
       "stages": {
         "playoff": {
@@ -39,13 +39,8 @@
         }
       }
     },
-    "2023/24": {
-      "teams": [
-        { "id": 9, "name": "Athletic Bilbao", "image": "AthleticBilbao" },
-        { "id": 13, "name": "Barcelona", "image": "Barcelona" },
-        { "id": 61, "name": "Mallorca", "image": "Mallorca" },
-        { "id": 92, "name": "Real Madrid", "image": "RealMadrid" }
-      ],
+    "2024/25": {
+      "teams": [{ "teamId": 9 }, { "teamId": 13 }, { "teamId": 61 }, { "teamId": 92 }],
       "stages": {
         "playoff": {
           "rounds": [

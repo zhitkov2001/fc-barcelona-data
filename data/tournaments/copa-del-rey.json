@@ -45,51 +45,51 @@
               "matches": [
                 {
                   "matchId": "m1",
+                  "homeTeamId": 93,
+                  "awayTeamId": 91,
+                  "legs": [{ "homeScore": 0, "awayScore": 2 }]
+                },
+                {
+                  "matchId": "m2",
+                  "homeTeamId": 33,
+                  "awayTeamId": 35,
+                  "legs": [{ "homeScore": 0, "awayScore": 1 }]
+                },
+                {
+                  "matchId": "m3",
+                  "homeTeamId": 32,
+                  "awayTeamId": 61,
+                  "legs": [{ "homeScore": 1, "awayScore": 0 }]
+                },
+                {
+                  "matchId": "m4",
+                  "homeTeamId": 10,
+                  "awayTeamId": 11,
+                  "legs": [{ "homeScore": 2, "awayScore": 3 }]
+                },
+                {
+                  "matchId": "m5",
                   "homeTeamId": 3,
                   "awayTeamId": 25,
                   "legs": [{ "homeScore": 2, "awayScore": 2, "penalty": { "homeScore": 3, "awayScore": 0 } }]
                 },
                 {
-                  "matchId": "m2",
+                  "matchId": "m6",
                   "homeTeamId": 106,
                   "awayTeamId": 92,
                   "legs": [{ "homeScore": 2, "awayScore": 3 }]
                 },
                 {
-                  "matchId": "m3",
+                  "matchId": "m7",
                   "homeTeamId": 85,
                   "awayTeamId": 114,
                   "legs": [{ "homeScore": 2, "awayScore": 1 }]
                 },
                 {
-                  "matchId": "m4",
+                  "matchId": "m8",
                   "homeTeamId": 47,
                   "awayTeamId": 13,
                   "legs": [{ "homeScore": 0, "awayScore": 2 }]
-                },
-                {
-                  "matchId": "m5",
-                  "homeTeamId": 2,
-                  "awayTeamId": 97,
-                  "legs": [{ "homeScore": 1, "awayScore": 0 }]
-                },
-                {
-                  "matchId": "m6",
-                  "homeTeamId": 46,
-                  "awayTeamId": 88,
-                  "legs": [{ "homeScore": 1, "awayScore": 3 }]
-                },
-                {
-                  "matchId": "m7",
-                  "homeTeamId": 36,
-                  "awayTeamId": 94,
-                  "legs": [{ "homeScore": 1, "awayScore": 2 }]
-                },
-                {
-                  "matchId": "m8",
-                  "homeTeamId": 48,
-                  "awayTeamId": 74,
-                  "legs": [{ "homeScore": 1, "awayScore": 1, "extratime": { "homeScore": 1, "awayScore": 3 } }]
                 },
                 {
                   "matchId": "m9",
@@ -122,27 +122,27 @@
                 },
                 {
                   "matchId": "m13",
-                  "homeTeamId": 93,
-                  "awayTeamId": 91,
-                  "legs": [{ "homeScore": 0, "awayScore": 2 }]
-                },
-                {
-                  "matchId": "m14",
-                  "homeTeamId": 33,
-                  "awayTeamId": 35,
-                  "legs": [{ "homeScore": 0, "awayScore": 1 }]
-                },
-                {
-                  "matchId": "m15",
-                  "homeTeamId": 32,
-                  "awayTeamId": 61,
+                  "homeTeamId": 2,
+                  "awayTeamId": 97,
                   "legs": [{ "homeScore": 1, "awayScore": 0 }]
                 },
                 {
+                  "matchId": "m14",
+                  "homeTeamId": 46,
+                  "awayTeamId": 88,
+                  "legs": [{ "homeScore": 1, "awayScore": 3 }]
+                },
+                {
+                  "matchId": "m15",
+                  "homeTeamId": 36,
+                  "awayTeamId": 94,
+                  "legs": [{ "homeScore": 1, "awayScore": 2 }]
+                },
+                {
                   "matchId": "m16",
-                  "homeTeamId": 10,
-                  "awayTeamId": 11,
-                  "legs": [{ "homeScore": 2, "awayScore": 3 }]
+                  "homeTeamId": 48,
+                  "awayTeamId": 74,
+                  "legs": [{ "homeScore": 1, "awayScore": 1, "extratime": { "homeScore": 1, "awayScore": 3 } }]
                 }
               ]
             },
@@ -151,27 +151,27 @@
               "matches": [
                 {
                   "matchId": "m1",
+                  "homeTeamId": 91,
+                  "awayTeamId": 35,
+                  "legs": [{ "homeScore": 2, "awayScore": 1 }]
+                },
+                {
+                  "matchId": "m2",
+                  "homeTeamId": 32,
+                  "awayTeamId": 11,
+                  "legs": [{ "homeScore": 0, "awayScore": 1 }]
+                },
+                {
+                  "matchId": "m3",
                   "homeTeamId": 3,
                   "awayTeamId": 92,
                   "legs": [{ "homeScore": 3, "awayScore": 2 }]
                 },
                 {
-                  "matchId": "m2",
+                  "matchId": "m4",
                   "homeTeamId": 85,
                   "awayTeamId": 13,
                   "legs": [{ "homeScore": 0, "awayScore": 2 }]
-                },
-                {
-                  "matchId": "m3",
-                  "homeTeamId": 2,
-                  "awayTeamId": 88,
-                  "legs": [{ "homeScore": 2, "awayScore": 0 }]
-                },
-                {
-                  "matchId": "m4",
-                  "homeTeamId": 94,
-                  "awayTeamId": 74,
-                  "legs": [{ "homeScore": 2, "awayScore": 2, "penalty": { "homeScore": 4, "awayScore": 3 } }]
                 },
                 {
                   "matchId": "m5",
@@ -193,15 +193,15 @@
                 },
                 {
                   "matchId": "m7",
-                  "homeTeamId": 91,
-                  "awayTeamId": 35,
-                  "legs": [{ "homeScore": 2, "awayScore": 1 }]
+                  "homeTeamId": 2,
+                  "awayTeamId": 88,
+                  "legs": [{ "homeScore": 2, "awayScore": 0 }]
                 },
                 {
                   "matchId": "m8",
-                  "homeTeamId": 32,
-                  "awayTeamId": 11,
-                  "legs": [{ "homeScore": 0, "awayScore": 1 }]
+                  "homeTeamId": 94,
+                  "awayTeamId": 74,
+                  "legs": [{ "homeScore": 2, "awayScore": 2, "penalty": { "homeScore": 4, "awayScore": 3 } }]
                 }
               ]
             },
@@ -210,37 +210,63 @@
               "matches": [
                 {
                   "matchId": "m1",
+                  "homeTeamId": 91,
+                  "awayTeamId": 11,
+                  "legs": [{ "homeScore": 0, "awayScore": 5 }]
+                },
+                {
+                  "matchId": "m2",
                   "homeTeamId": 3,
                   "awayTeamId": 13,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 1, "awayScore": 2 }]
                 },
                 {
                   "matchId": "m3",
-                  "homeTeamId": 2,
-                  "awayTeamId": 94,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
-                },
-                {
-                  "matchId": "m5",
                   "homeTeamId": 111,
                   "awayTeamId": 9,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 1, "awayScore": 2 }]
                 },
                 {
-                  "matchId": "m7",
-                  "homeTeamId": 91,
-                  "awayTeamId": 11,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "matchId": "m4",
+                  "homeTeamId": 2,
+                  "awayTeamId": 94,
+                  "legs": [{ "homeScore": 2, "awayScore": 3 }]
                 }
               ]
             },
             {
               "title": "semi-finals",
-              "matches": []
+              "matches": [
+                {
+                  "matchId": "m1",
+                  "homeTeamId": 11,
+                  "awayTeamId": 13,
+                  "legs": [
+                    { "homeScore": 4, "awayScore": 0 },
+                    { "homeScore": 3, "awayScore": 0 }
+                  ]
+                },
+                {
+                  "matchId": "m2",
+                  "homeTeamId": 9,
+                  "awayTeamId": 94,
+                  "legs": [
+                    { "homeScore": 0, "awayScore": 1 },
+                    { "homeScore": 1, "awayScore": 0 }
+                  ]
+                }
+              ]
             },
             {
               "title": "final",
-              "matches": []
+              "matches": [
+                {
+                  "matchId": "m1",
+                  "homeTeamId": 11,
+                  "awayTeamId": 94,
+                  "legs": [{ "homeScore": null, "awayScore": null }]
+                }
+              ]
             }
           ]
         }

@@ -466,7 +466,203 @@
           }
         ],
         "playoff": {
-          "rounds": []
+          "rounds": [
+            {
+              "title": "ko play-offs",
+              "matches": [
+                {
+                  "matchId": "m1",
+                  "homeTeamId": 69,
+                  "awayTeamId": 78,
+                  "legs": [
+                    { "homeScore": 2, "awayScore": 3 },
+                    { "homeScore": 2, "awayScore": 2 }
+                  ]
+                },
+                {
+                  "matchId": "m2",
+                  "homeTeamId": 42,
+                  "awayTeamId": 50,
+                  "legs": [
+                    { "homeScore": 5, "awayScore": 2 },
+                    { "homeScore": 3, "awayScore": 0, "extratime": { "homeScore": 0, "awayScore": 2 } }
+                  ]
+                },
+                {
+                  "matchId": "m3",
+                  "homeTeamId": 17,
+                  "awayTeamId": 92,
+                  "legs": [
+                    { "homeScore": 0, "awayScore": 1 },
+                    { "homeScore": 2, "awayScore": 1 }
+                  ]
+                },
+                {
+                  "matchId": "m4",
+                  "homeTeamId": 16,
+                  "awayTeamId": 8,
+                  "legs": [
+                    { "homeScore": 2, "awayScore": 0 },
+                    { "homeScore": 4, "awayScore": 1 }
+                  ]
+                },
+                {
+                  "matchId": "m5",
+                  "homeTeamId": 83,
+                  "awayTeamId": 72,
+                  "legs": [
+                    { "homeScore": 1, "awayScore": 6 },
+                    { "homeScore": 3, "awayScore": 2 }
+                  ]
+                },
+                {
+                  "matchId": "m6",
+                  "homeTeamId": 28,
+                  "awayTeamId": 11,
+                  "legs": [
+                    { "homeScore": 3, "awayScore": 3 },
+                    { "homeScore": 4, "awayScore": 1 }
+                  ]
+                },
+                {
+                  "matchId": "m7",
+                  "homeTeamId": 19,
+                  "awayTeamId": 49,
+                  "legs": [
+                    { "homeScore": 3, "awayScore": 1 },
+                    { "homeScore": 1, "awayScore": 2 }
+                  ]
+                },
+                {
+                  "matchId": "m8",
+                  "homeTeamId": 73,
+                  "awayTeamId": 14,
+                  "legs": [
+                    { "homeScore": 0, "awayScore": 2 },
+                    { "homeScore": 0, "awayScore": 0 }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "round of 16",
+              "matches": [
+                {
+                  "matchId": "m1",
+                  "homeTeamId": 78,
+                  "awayTeamId": 27,
+                  "legs": [
+                    { "homeScore": 5, "awayScore": 2 },
+                    { "homeScore": 0, "awayScore": 3 }
+                  ]
+                },
+                {
+                  "matchId": "m2",
+                  "homeTeamId": 42,
+                  "awayTeamId": 58,
+                  "legs": [
+                    { "homeScore": 1, "awayScore": 0 },
+                    { "homeScore": 4, "awayScore": 0 }
+                  ]
+                },
+                {
+                  "matchId": "m3",
+                  "homeTeamId": 92,
+                  "awayTeamId": 62,
+                  "legs": [
+                    { "homeScore": 3, "awayScore": 0 },
+                    { "homeScore": 1, "awayScore": 2 }
+                  ]
+                },
+                {
+                  "matchId": "m4",
+                  "homeTeamId": 8,
+                  "awayTeamId": 15,
+                  "legs": [
+                    { "homeScore": 1, "awayScore": 6 },
+                    { "homeScore": 4, "awayScore": 1 }
+                  ]
+                },
+                {
+                  "matchId": "m5",
+                  "homeTeamId": 72,
+                  "awayTeamId": 13,
+                  "legs": [
+                    { "homeScore": 1, "awayScore": 1 },
+                    { "homeScore": 7, "awayScore": 2 }
+                  ]
+                },
+                {
+                  "matchId": "m6",
+                  "homeTeamId": 11,
+                  "awayTeamId": 108,
+                  "legs": [
+                    { "homeScore": 5, "awayScore": 2 },
+                    { "homeScore": 3, "awayScore": 2 }
+                  ]
+                },
+                {
+                  "matchId": "m7",
+                  "homeTeamId": 19,
+                  "awayTeamId": 102,
+                  "legs": [
+                    { "homeScore": 3, "awayScore": 0 },
+                    { "homeScore": 3, "awayScore": 0, "extratime": { "homeScore": 2, "awayScore": 0 } }
+                  ]
+                },
+                {
+                  "matchId": "m8",
+                  "homeTeamId": 14,
+                  "awayTeamId": 6,
+                  "legs": [
+                    { "homeScore": 1, "awayScore": 1 },
+                    { "homeScore": 2, "awayScore": 0 }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "round of 16",
+              "matches": [
+                {
+                  "matchId": "m1",
+                  "homeTeamId": 78,
+                  "awayTeamId": 58,
+                  "legs": [
+                    { "homeScore": null, "awayScore": null },
+                    { "homeScore": null, "awayScore": null }
+                  ]
+                },
+                {
+                  "matchId": "m2",
+                  "homeTeamId": 92,
+                  "awayTeamId": 15,
+                  "legs": [
+                    { "homeScore": null, "awayScore": null },
+                    { "homeScore": null, "awayScore": null }
+                  ]
+                },
+                {
+                  "matchId": "m3",
+                  "homeTeamId": 13,
+                  "awayTeamId": 11,
+                  "legs": [
+                    { "homeScore": null, "awayScore": null },
+                    { "homeScore": null, "awayScore": null }
+                  ]
+                },
+                {
+                  "matchId": "m4",
+                  "homeTeamId": 102,
+                  "awayTeamId": 6,
+                  "legs": [
+                    { "homeScore": null, "awayScore": null },
+                    { "homeScore": null, "awayScore": null }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       }
     },
