@@ -347,7 +347,8 @@
               "losses": 3,
               "scored": 10,
               "missed": 14
-            }
+            },
+            "isQualified": "orange"
           },
           {
             "teamId": 77,

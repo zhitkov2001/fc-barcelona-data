@@ -1,296 +1,12 @@
 {
-  "February 2026": [
-    {
-      "id": 0,
-      "dateInfo": {
-        "weekday": "Tuesday",
-        "date": "03",
-        "month": "February",
-        "time": "21:00"
-      },
-      "competition": { "img": "CopaDelRey", "title": "Copa del Rey" },
-      "stageInfo": {
-        "stage": "Quarter-finals",
-        "stadium": "Carlos Belmonte"
-      },
-      "owner": {
-        "title": "Albacete",
-        "img": "Albacete",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    },
-    {
-      "id": 1,
-      "dateInfo": {
-        "weekday": "Sunday",
-        "date": "07",
-        "month": "February",
-        "time": "16:15"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 23",
-        "stadium": "Spotify Camp Nou"
-      },
-      "owner": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "Mallorca",
-        "img": "Mallorca",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    },
-    {
-      "id": 2,
-      "dateInfo": {
-        "weekday": "Sunday",
-        "date": "16",
-        "month": "February",
-        "time": "21:00"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 24",
-        "stadium": "Municipal de Montilivi"
-      },
-      "owner": {
-        "title": "Girona",
-        "img": "Girona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": "SeoulBarcelona"
-    },
-    {
-      "id": 3,
-      "dateInfo": {
-        "weekday": "Sunday",
-        "date": "22",
-        "month": "February",
-        "time": "16:15"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 25",
-        "stadium": "Spotify Camp Nou"
-      },
-      "owner": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "Levante",
-        "img": "Levante",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    }
-  ],
-  "March 2026": [
-    {
-      "id": 0,
-      "dateInfo": {
-        "weekday": "Sunday",
-        "date": "01",
-        "month": "March",
-        "time": "TBA"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 26",
-        "stadium": "Spotify Camp Nou"
-      },
-      "owner": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "Villarreal",
-        "img": "Villarreal",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": "SeoulBarcelona"
-    },
-    {
-      "id": 1,
-      "dateInfo": {
-        "weekday": "Sunday",
-        "date": "08",
-        "month": "March",
-        "time": "TBA"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 27",
-        "stadium": "San Mamés"
-      },
-      "owner": {
-        "title": "Athletic Club",
-        "img": "AthleticBilbao",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": "SeoulBarcelona"
-    },
-    {
-      "id": 2,
-      "dateInfo": {
-        "weekday": "Sunday",
-        "date": "15",
-        "month": "March",
-        "time": "TBA"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 28",
-        "stadium": "Spotify Camp Nou"
-      },
-      "owner": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "Sevilla",
-        "img": "Sevilla",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": "SeoulBarcelona"
-    },
-    {
-      "id": 3,
-      "dateInfo": {
-        "weekday": "Sunday",
-        "date": "22",
-        "month": "March",
-        "time": "TBA"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 29",
-        "stadium": "Spotify Camp Nou"
-      },
-      "owner": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "Rayo Vallecano",
-        "img": "RayoVallecano",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    }
-  ],
   "April 2026": [
     {
       "id": 0,
       "dateInfo": {
-        "weekday": "Sunday",
-        "date": "05",
+        "weekday": "Saturday",
+        "date": "04",
         "month": "April",
-        "time": "TBA"
+        "time": "21:00"
       },
       "competition": { "img": "LaLiga", "title": "La Liga" },
       "stageInfo": {
@@ -317,15 +33,50 @@
           "subtitution": {}
         }
       },
-      "matchBackground": "SeoulBarcelona"
+      "matchBackground": ""
     },
     {
       "id": 1,
       "dateInfo": {
-        "weekday": "Sunday",
-        "date": "12",
+        "weekday": "Wednesday",
+        "date": "08",
         "month": "April",
-        "time": "TBA"
+        "time": "21:00"
+      },
+      "competition": { "img": "UCL", "title": "UEFA Champions League" },
+      "stageInfo": {
+        "stage": "Quarter-finals",
+        "stadium": "Spotify Camp Nou"
+      },
+      "owner": {
+        "title": "FC Barcelona",
+        "img": "Barcelona",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "score": {
+        "owner": null,
+        "guest": null
+      },
+      "guest": {
+        "title": "Atletico Madrid",
+        "img": "AtleticoMadrid",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "matchBackground": ""
+    },
+    {
+      "id": 2,
+      "dateInfo": {
+        "weekday": "Saturday",
+        "date": "11",
+        "month": "April",
+        "time": "18:30"
       },
       "competition": { "img": "LaLiga", "title": "La Liga" },
       "stageInfo": {
@@ -355,21 +106,21 @@
       "matchBackground": "SeoulBarcelona"
     },
     {
-      "id": 2,
+      "id": 3,
       "dateInfo": {
-        "weekday": "Sunday",
-        "date": "19",
+        "weekday": "Tuesday",
+        "date": "14",
         "month": "April",
-        "time": "TBA"
+        "time": "21:00"
       },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
+      "competition": { "img": "UCL", "title": "UEFA Champions League" },
       "stageInfo": {
-        "stage": "Matchday 32",
-        "stadium": "Estadio Coliseum"
+        "stage": "Quarter-finals",
+        "stadium": "Riyadh Air Metropolitano"
       },
       "owner": {
-        "title": "Getafe",
-        "img": "Getafe",
+        "title": "Atletico Madrid",
+        "img": "AtleticoMadrid",
         "players": {
           "start": {},
           "subtitution": {}
@@ -387,10 +138,10 @@
           "subtitution": {}
         }
       },
-      "matchBackground": "SeoulBarcelona"
+      "matchBackground": ""
     },
     {
-      "id": 3,
+      "id": 4,
       "dateInfo": {
         "weekday": "Wednesday",
         "date": "22",
@@ -417,6 +168,41 @@
       "guest": {
         "title": "Celta de Vigo",
         "img": "Celta",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "matchBackground": ""
+    },
+    {
+      "id": 5,
+      "dateInfo": {
+        "weekday": "Wednesday",
+        "date": "26",
+        "month": "April",
+        "time": "TBA"
+      },
+      "competition": { "img": "LaLiga", "title": "La Liga" },
+      "stageInfo": {
+        "stage": "Matchday 32",
+        "stadium": "Estadio Coliseum"
+      },
+      "owner": {
+        "title": "Getafe",
+        "img": "Getafe",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "score": {
+        "owner": null,
+        "guest": null
+      },
+      "guest": {
+        "title": "FC Barcelona",
+        "img": "Barcelona",
         "players": {
           "start": {},
           "subtitution": {}
@@ -459,7 +245,7 @@
           "subtitution": {}
         }
       },
-      "matchBackground": "SeoulBarcelona"
+      "matchBackground": ""
     },
     {
       "id": 1,
@@ -467,7 +253,7 @@
         "weekday": "Sunday",
         "date": "10",
         "month": "May",
-        "time": "TBA"
+        "time": "21:00"
       },
       "competition": { "img": "LaLiga", "title": "La Liga" },
       "stageInfo": {
@@ -494,7 +280,7 @@
           "subtitution": {}
         }
       },
-      "matchBackground": "SeoulBarcelona"
+      "matchBackground": ""
     },
     {
       "id": 2,
@@ -529,7 +315,7 @@
           "subtitution": {}
         }
       },
-      "matchBackground": "SeoulBarcelona"
+      "matchBackground": ""
     },
     {
       "id": 3,
@@ -599,7 +385,7 @@
           "subtitution": {}
         }
       },
-      "matchBackground": "SeoulBarcelona"
+      "matchBackground": ""
     }
   ]
 }
