@@ -1,41 +1,6 @@
 {
   "April 2026": [
     {
-      "id": 0,
-      "dateInfo": {
-        "weekday": "Saturday",
-        "date": "04",
-        "month": "April",
-        "time": "21:00"
-      },
-      "competition": { "img": "LaLiga", "title": "La Liga" },
-      "stageInfo": {
-        "stage": "Matchday 30",
-        "stadium": "Riyadh Air Metropolitano"
-      },
-      "owner": {
-        "title": "Atletico Madrid",
-        "img": "AtleticoMadrid",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    },
-    {
       "id": 1,
       "dateInfo": {
         "weekday": "Wednesday",

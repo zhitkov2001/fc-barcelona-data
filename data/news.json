@@ -1,5 +1,143 @@
 [
   {
+    "id": 6,
+    "month": "april",
+    "date": "7",
+    "cover": "atletico-barca",
+    "title": "Atlitico Madrid 1-2 FC Barcelona",
+    "subtitle": "Lewandowski's late winner sends the Catalans seven points clear at the top of the table after Real Madrid were beaten earlier in the day",
+    "category": "first team",
+    "relatedPlayers": [],
+    "content": [
+      {
+        "id": "p1",
+        "type": "paragraph",
+        "text": "FC Barcelona have moved an enormous seven points clear at the top of La Liga after defeating Atlético Madrid 2–1 on Saturday night, just hours after second-placed Real Madrid lost by the same scoreline in Mallorca."
+      },
+      {
+        "id": "p2",
+        "type": "paragraph",
+        "text": "With only eight games remaining, the Catalans are now closer than ever to the league title. At the same time, the win comes as a huge boost ahead of the second and third instalments of the ‘trilogy’ of games against Atlético Madrid, this time in the Champions League."
+      },
+      {
+        "id": "p3",
+        "type": "paragraph",
+        "text": "And the match was another comeback to add to Hansi Flick’s growing collection. The red-and-whites struck first, but Barça needed just three minutes to respond immediately from the boot of Marcus Rashford"
+      },
+      {
+        "id": "p4",
+        "type": "paragraph",
+        "text": "Playing the whole second half with just ten men following Nico González’s red card, Atlético defended long and hard and very nearly salvaged a point."
+      },
+      {
+        "id": "p5",
+        "type": "paragraph",
+        "text": "But Barça’s constant pressure was finally rewarded when, with just three minutes of regulation time to play, substitute Robert Lewandowski chested in the winner."
+      },
+      {
+        "id": "h1",
+        "type": "heading",
+        "level": 2,
+        "text": "Goals at either end"
+      },
+      {
+        "id": "p6",
+        "type": "paragraph",
+        "text": "There was a bit of everything in the first half as both teams pushed for an early goal, with both Lamine Yamal and Antoine Griezmann missing excellent chances. Barça started the stronger of the two sides, but Atlético gradually worked their way into the game and took the lead on 39 minutes when former blaugrana Clément Lenglet played a superb through ball to Giuliano Simeone."
+      },
+      {
+        "id": "m1",
+        "type": "media",
+        "media": {
+          "type": "image",
+          "src": "Atletico Madrid vs Barcelona La Liga",
+          "alt": "barca-celebrate"
+        }
+      },
+      {
+        "id": "p7",
+        "type": "paragraph",
+        "text": "The coach’s son did the rest, and Barça were playing catch-up. But only briefly. A wonderful setup from Dani Olmo. A fine finish from Rashford. And it was all square again."
+      },
+      {
+        "id": "h2",
+        "type": "heading",
+        "level": 2,
+        "text": "Up against ten men"
+      },
+      {
+        "id": "p8",
+        "type": "paragraph",
+        "text": "Before the break, Barça were handed a further boost when Nico González was sent off for a last-man challenge on Yamal. Early in the second half, Barça were close to being reduced to ten men themselves when Gerard Martín was initially shown a red card for a challenge on Thiago Almada. A VAR review determined that the tackle had looked worse in real time than it actually was, and the card was downgraded to yellow, allowing Martín to continue. Two players who did not continue, however, were Ronald Araújo and Marc Bernal, both forced off through injury. Let’s hope neither issue proves serious."
+      },
+      {
+        "id": "h3",
+        "type": "heading",
+        "level": 2,
+        "text": "Lewy at last"
+      },
+      {
+        "id": "p8",
+        "type": "paragraph",
+        "text": "Barça needed something different to find a winner. And who better to send on as a solution than Lewandowski? Time and again, the Pole has come to the team’s late rescue, and here he did so again. Moments after coming on, João Cancelo’s shot was saved by Musso, only for the rebound to ricochet in off Lewandowski’s chest. Cancelo’s role in the goal deserves credit. His driving run down the right, and the way he skipped past Nahuel Molina to get into place for his shot... Pure magic. As for Lewandowski. Some might call it fortune. But we know it was anything but. His uncanny knack for always being in the right place at the right time comes down to far more than luck. It's instinct. And it's moved Barça closer than ever to retaining their Liga title. More of the same on Wednesday would be nice!"
+      },
+      {
+        "id": "s1",
+        "type": "slider",
+        "images": [
+          {
+            "src": "slider-0",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-1",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-2",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-3",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-4",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-5",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-6",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-7",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-8",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-9",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-10",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          },
+          {
+            "src": "slider-11",
+            "alt": "Atletico Madrid vs Barcelona La Liga"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 5,
     "month": "january",
     "date": "19",
