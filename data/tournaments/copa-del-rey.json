@@ -264,7 +264,7 @@
                   "matchId": "m1",
                   "homeTeamId": 11,
                   "awayTeamId": 94,
-                  "legs": [{ "homeScore": null, "awayScore": null }]
+                  "legs": [{ "homeScore": 2, "awayScore": 2, "penalty": { "homeScore": 3, "awayScore": 4 } }]
                 }
               ]
             }

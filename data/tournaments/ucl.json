@@ -623,15 +623,15 @@
               ]
             },
             {
-              "title": "round of 16",
+              "title": "quarter-finals",
               "matches": [
                 {
                   "matchId": "m1",
                   "homeTeamId": 78,
                   "awayTeamId": 58,
                   "legs": [
-                    { "homeScore": null, "awayScore": null },
-                    { "homeScore": null, "awayScore": null }
+                    { "homeScore": 2, "awayScore": 0 },
+                    { "homeScore": 0, "awayScore": 2 }
                   ]
                 },
                 {
@@ -639,8 +639,8 @@
                   "homeTeamId": 92,
                   "awayTeamId": 15,
                   "legs": [
-                    { "homeScore": null, "awayScore": null },
-                    { "homeScore": null, "awayScore": null }
+                    { "homeScore": 1, "awayScore": 2 },
+                    { "homeScore": 4, "awayScore": 3 }
                   ]
                 },
                 {
@@ -648,8 +648,8 @@
                   "homeTeamId": 13,
                   "awayTeamId": 11,
                   "legs": [
-                    { "homeScore": null, "awayScore": null },
-                    { "homeScore": null, "awayScore": null }
+                    { "homeScore": 0, "awayScore": 2 },
+                    { "homeScore": 2, "awayScore": 1 }
                   ]
                 },
                 {
@@ -657,11 +657,38 @@
                   "homeTeamId": 102,
                   "awayTeamId": 6,
                   "legs": [
+                    { "homeScore": 0, "awayScore": 1 },
+                    { "homeScore": 0, "awayScore": 0 }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "semi-finals",
+              "matches": [
+                {
+                  "matchId": "m1",
+                  "homeTeamId": 78,
+                  "awayTeamId": 15,
+                  "legs": [
+                    { "homeScore": null, "awayScore": null },
+                    { "homeScore": null, "awayScore": null }
+                  ]
+                },
+                {
+                  "matchId": "m2",
+                  "homeTeamId": 11,
+                  "awayTeamId": 6,
+                  "legs": [
                     { "homeScore": null, "awayScore": null },
                     { "homeScore": null, "awayScore": null }
                   ]
                 }
               ]
+            },
+            {
+              "title": "final",
+              "matches": []
             }
           ]
         }
