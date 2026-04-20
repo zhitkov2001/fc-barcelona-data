@@ -24,10 +24,7 @@
       "score": {
         "owner": 1,
         "guest": 2,
-        "aggregate": {
-          "owner": 3,
-          "guest": 2
-        }
+        "aggregate": "3-2"
       },
 
       "guest": {
@@ -171,10 +168,7 @@
       "score": {
         "owner": 7,
         "guest": 2,
-        "aggregate": {
-          "owner": 8,
-          "guest": 3
-        }
+        "aggregate": "8-3"
       },
       "guest": {
         "title": "Newcastle United",
