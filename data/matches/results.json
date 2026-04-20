@@ -23,12 +23,13 @@
       },
       "score": {
         "owner": 1,
-        "guest": 2
+        "guest": 2,
+        "aggregate": {
+          "owner": 3,
+          "guest": 2
+        }
       },
-      "aggregate": {
-        "owner": 3,
-        "guest": 2
-      },
+
       "guest": {
         "title": "FC Barcelona",
         "img": "Barcelona",
@@ -169,11 +170,11 @@
       },
       "score": {
         "owner": 7,
-        "guest": 2
-      },
-      "aggregate": {
-        "owner": 8,
-        "guest": 3
+        "guest": 2,
+        "aggregate": {
+          "owner": 8,
+          "guest": 3
+        }
       },
       "guest": {
         "title": "Newcastle United",
