@@ -1,152 +1,22 @@
 {
   "goalkeepers": [
     {
-      "id": "ter-stegen",
-      "name": "Marc-André",
-      "surname": "Ter Stegen",
-      "fullName": "Marc-André ter Stegen",
-      "position": "goalkeeper",
-      "img": "TerStegen",
-      "number": "1",
-      "injured": {
-        "status": true,
-        "type": "Back injury"
-      },
-      "stats": {
-        "matches": "423",
-        "clean": "175",
-        "saves": "989"
-      },
-      "currentStats": {
-        "matches": "1",
-        "clean": "1",
-        "saves": "3"
-      },
-      "title": "A keeper with great reflexes and also excellent with the ball at his feet",
-      "subtitle": "Marc-André ter Stegen signed for FC Barcelona in the summer of 2014 from Borussia Mönchengladbach. Born on 30 April 1992 in Mönchengladbach itself, the German did not take long to make his name as one Europe’s most promising young goalkeepers.",
-      "bio": [
-        "Marc-André ter Stegen signed for FC Barcelona in the summer of 2014 from Borussia Mönchengladbach. Born on 30 April 1992 in Mönchengladbach itself, the German did not take long to make his name as one Europe’s most promising young goalkeepers.",
-        "His only previous club was Borussia Mönchengladbach, which he joined in 1996 at the age of just 4, and by the time he was 18 he had already made his first team debut on 10 April 2011 in the Bundesliga against FC Köln. Mönchengladbach won 5-1, and following a fine performance Ter Stegen was soon the regular first choice keeper, conceding just three goals in his first six outings.",
-        "In the next two games, Ter Stegen and Mönchengladbach faced a relegation playoff, and won 2-1 on aggregate to stay in the top division. The following season, Ter Stegen was named best goalkeeper in the Bundesliga and he went on to complete four seasons and 108 matches in the German league.",
-        "Ter Stegen made his official debut for the Club on 17 September 2014 in Champions League against APOEL Nicosia FC. The match ended with a Barça victory (1-0 ). Aged just 22 years he became the second German goalkeeper at FC Barcelona, following on from Robert Enke. In his debut season, 2014/15, the goalkeeper played every game in the Champions League and had a leading role in the Copa del Rey, both of which Barça won. In La Liga he was back up to Claudio Bravo in his first couple of seasons at the Club but with the departure of the Chilean, Ter Stegen became first choice also in the league in the 2016/17 season.",
-        "Consistency is one of the key characteristics of the German keeper and in the 2021/22 season he surpassed 300 games for Barça, taking him into the top 5 on the all time appearance list for foreign players.",
-        "The 2022/23 season was a memorable one for the goalkeeper from Mönchengladbach. Ter Stegen won his first Zamora trophy after conceding just 18 goals in the league, keeping 26 clean sheets to equal Deportivo La Coruña's Paco Liaño whose record was set back in 1993/94. The German's performances were key in Barça reclaiming the league title and winning another Spanish Super Cup to add to their collection.",
-        "The goalkeeper from Möchengladbach has gone from one success to another and as a player he has so far won no less than 16 trophies with Barça.",
-        "International with Germany since the summer of 2017 Ter Stegen was key in his national side's victory in the Confederations Cup and the goalkeeper was named man of the match in the final against Chile. He was also part of the German squad in the 2018 and 2022 World Cups."
-      ],
-      "details": {
-        "placeOfBirth": "Mönchengladbach, Germany",
-        "dateOfBirth": "30/04/1992",
-        "weight": "85kg",
-        "height": "187cm",
-        "clubDebut": "17/09/2014"
-      },
-      "trophy": {
-        "LaLiga": {
-          "club": "Barcelona",
-          "title": "La Liga",
-          "quantity": 6,
-          "img": "LaLiga",
-          "years": {
-            "0": "2014/15",
-            "1": "2015/16",
-            "2": "2017/18",
-            "3": "2018/19",
-            "4": "2022/23",
-            "5": "2024/25"
-          }
-        },
-        "UCL": {
-          "club": "Barcelona",
-          "title": "Champions League",
-          "quantity": 1,
-          "img": "UCL",
-          "years": {
-            "0": "2014/15"
-          }
-        },
-        "CopaDelRey": {
-          "club": "Barcelona",
-          "title": "Copa del Rey",
-          "quantity": 6,
-          "img": "CopaDelRey",
-          "years": {
-            "0": "2014/15",
-            "1": "2015/16",
-            "2": "2016/17",
-            "3": "2017/18",
-            "4": "2020/21",
-            "5": "2024/25"
-          }
-        },
-        "SpanishSuperCup": {
-          "club": "Barcelona",
-          "title": "Spanish Super Cup",
-          "quantity": 5,
-          "img": "SpanishSuperCup",
-          "years": {
-            "0": "2016/17",
-            "1": "2018/19",
-            "2": "2022/23",
-            "3": "2024/25",
-            "4": "2025/26"
-          }
-        },
-        "ClubWorldCup": {
-          "club": "Barcelona",
-          "title": "Club World Cup",
-          "quantity": 1,
-          "img": "ClubWorldCup",
-          "years": {
-            "0": "2015/16"
-          }
-        },
-        "EuropeanSuperCup": {
-          "club": "Barcelona",
-          "title": "European Super Cup",
-          "quantity": 1,
-          "img": "EuropeanSuperCup",
-          "years": {
-            "0": "2015/16"
-          }
-        },
-        "ConfederationsCup": {
-          "club": "Germany",
-          "title": "Confederations Cup",
-          "quantity": 1,
-          "img": "",
-          "years": {
-            "0": "2017"
-          }
-        },
-        "EuropeanU19Championship": {
-          "club": "Germany",
-          "title": "European U-19 Championship",
-          "quantity": 1,
-          "img": "",
-          "years": {
-            "0": "2009"
-          }
-        }
-      }
-    },
-    {
       "id": "joan-garcia",
       "name": "Joan",
       "surname": "Garcia",
       "fullName": "Joan Garcia Pons",
       "position": "goalkeeper",
       "img": "JoanGarcia",
-      "number": "13",
+      "number": "1",
       "stats": {
-        "matches": "19",
-        "clean": "9",
-        "saves": "57"
+        "matches": "52",
+        "clean": "21",
+        "saves": "126"
       },
       "currentStats": {
-        "matches": "19",
-        "clean": "9",
-        "saves": "57"
+        "matches": "6",
+        "clean": "3",
+        "saves": "11"
       },
       "title": "A goalkeeper with tremendous reflexes who can also play with the ball at his feet",
       "subtitle": "Joan Garcia came to FC Barcelona in the summer of 2025 after showing himself to be one of the best goalkeepers in La Liga in the previous campaign.",
@@ -172,6 +42,24 @@
           "years": {
             "0": "2025/26"
           }
+        },
+        "LaLiga": {
+          "club": "Barcelona",
+          "title": "La Liga",
+          "quantity": 1,
+          "img": "LaLiga",
+          "years": {
+            "0": "2025/26"
+          }
+        },
+        "WorldCup": {
+          "club": "Spain",
+          "title": "World Cup",
+          "quantity": 1,
+          "img": "WorldCup",
+          "years": {
+            "0": "2026"
+          }
         }
       }
     },
@@ -182,16 +70,16 @@
       "fullName": "Wojciech Tomasz Szczęsny",
       "position": "goalkeeper",
       "img": "Szczesny",
-      "number": "25",
+      "number": "13",
       "stats": {
-        "matches": "39",
+        "matches": "43",
         "clean": "13",
-        "saves": "88"
+        "saves": "95"
       },
       "currentStats": {
-        "matches": "9",
+        "matches": "1",
         "clean": "0",
-        "saves": "26"
+        "saves": "0"
       },
       "title": "With an admirable career in goal for Arsenal, Roma, and Juventus, Szczęsny is a vastly experienced international goalkeeper",
       "subtitle": "FC Barcelona and the player Wojciech Szczęsny reached an agreement for him to join the Club until 30 June 2025 after Ter Stegen picked up a long-term injury.",
@@ -205,7 +93,7 @@
       "details": {
         "placeOfBirth": "Warszawa, Poland",
         "dateOfBirth": "18/04/1990",
-        "weight": "90kg",
+        "weight": "96kg",
         "height": "195cm",
         "clubDebut": "04/01/2025"
       },
@@ -213,10 +101,120 @@
         "LaLiga": {
           "club": "Barcelona",
           "title": "La Liga",
-          "quantity": 1,
+          "quantity": 2,
           "img": "LaLiga",
           "years": {
+            "0": "2024/25",
+            "1": "2025/26"
+          }
+        },
+        "CopaDelRey": {
+          "club": "Barcelona",
+          "title": "Copa del Rey",
+          "quantity": 1,
+          "img": "CopaDelRey",
+          "years": {
             "0": "2024/25"
+          }
+        },
+        "SpanishSuperCup": {
+          "club": "Barcelona",
+          "title": "Spanish Super Cup",
+          "quantity": 2,
+          "img": "SpanishSuperCup",
+          "years": {
+            "0": "2024/25",
+            "1": "2025/26"
+          }
+        },
+        "SerieA": {
+          "club": "Juventus",
+          "title": "Serie A",
+          "quantity": 3,
+          "img": "SerieA",
+          "years": {
+            "0": "2017/18",
+            "1": "2018/19",
+            "2": "2019/20"
+          }
+        },
+        "CoppaItalia": {
+          "club": "Juventus",
+          "title": "Coppa Italia",
+          "quantity": 3,
+          "img": "CoppaItalia",
+          "years": {
+            "0": "2017/18",
+            "1": "2020/21",
+            "2": "2023/24"
+          }
+        },
+        "ItalianSuperCup": {
+          "club": "Juventus",
+          "title": "Italian Super Cup",
+          "quantity": 2,
+          "img": "ItalianSuperCup",
+          "years": {
+            "0": "2017/18",
+            "1": "2019/20"
+          }
+        },
+
+        "FACup": {
+          "club": "Arsenal",
+          "title": "FA Cup",
+          "quantity": 2,
+          "img": "FACup",
+          "years": {
+            "0": "2013/14",
+            "1": "2014/15"
+          }
+        }
+      }
+    },
+    {
+      "id": "livakovic",
+      "name": "Dominik",
+      "surname": "Livaković",
+      "fullName": "Dominik Livaković",
+      "position": "goalkeeper",
+      "img": "",
+      "number": "13",
+      "stats": {
+        "matches": "43",
+        "clean": "13",
+        "saves": "95"
+      },
+      "currentStats": {
+        "matches": "1",
+        "clean": "0",
+        "saves": "0"
+      },
+      "title": "With an admirable career in goal for Arsenal, Roma, and Juventus, Szczęsny is a vastly experienced international goalkeeper",
+      "subtitle": "FC Barcelona and the player Wojciech Szczęsny reached an agreement for him to join the Club until 30 June 2025 after Ter Stegen picked up a long-term injury.",
+      "bio": [
+        "FC Barcelona and the player Wojciech Szczęsny reached an agreement for him to join the Club until 30 June 2025 after Ter Stegen picked up a long-term injury.",
+        "This means the Polish keeper is back in a kit albeit he announced his retirement in August. However, Barça's call brought him back to football ​after an admirable career and many achievements. After leaving his home town of Warsaw at the age of 16 years old, he went on to play in goal for major European sides such as Arsenal, Roma and Juventus.",
+        "English side Arsenal gave him his chance in the top flight, and after a positive loan with Brentford, he became the gunners' number one for a while, winning two FA Cups and one Community Shield.",
+        "He then moved from London to Roma, were he stayed for two seasons, before signing for Juventus after having been chosen as the heir to Gianluigi Buffon. His importance in Turin was quite evident, as he played for seven seasons from 2017 to 2024, winning three league titles, three Cups and two Super Cups.",
+        "He also represented the Polish national team at two World Cups and four European Cups."
+      ],
+      "details": {
+        "placeOfBirth": "Warszawa, Poland",
+        "dateOfBirth": "18/04/1990",
+        "weight": "96kg",
+        "height": "195cm",
+        "clubDebut": "04/01/2025"
+      },
+      "trophy": {
+        "LaLiga": {
+          "club": "Barcelona",
+          "title": "La Liga",
+          "quantity": 2,
+          "img": "LaLiga",
+          "years": {
+            "0": "2024/25",
+            "1": "2025/26"
           }
         },
         "CopaDelRey": {
@@ -474,74 +472,6 @@
       }
     },
     {
-      "id": "araujo",
-      "name": "Ronald",
-      "surname": "Araujo",
-      "fullName": "Ronald Federico Araújo da Silva",
-      "position": "defender",
-      "img": "Araujo",
-      "number": "4",
-      "stats": {
-        "matches": "191",
-        "goals": "12",
-        "assists": "7"
-      },
-      "currentStats": {
-        "matches": "16",
-        "goals": "2",
-        "assists": "0"
-      },
-      "title": "Uruguayan defender, strong in the air and capable with the ball at his feet",
-      "subtitle": "Ronald Araujo was born in Rivera, Uruguay, on 7 March 1999. The young central defender began playing professionally for his hometown team, and later joined the lower categories at Rentistas in the Uruguayan Second Division.",
-      "bio": [
-        "Ronald Araujo was born in Rivera, Uruguay, on 7 March 1999. The young central defender began playing professionally for his hometown team, and later joined the lower categories at Rentistas in the Uruguayan Second Division.",
-        "Araujo stood out in his country and Boston River signed him. After one year playing in Montevideo and gaining experience in the Uruguayan top flight, he signed a five-year contract with Barça B on 29 August 2018 with a buy out clause of 100 million euros, going up to 200 million if he joins the first team squad. For the 2020/21 season the defender became part of the FC Barcelona first team squad winning his first trophy at the Club, the Copa del Rey.",
-        "In his third season Araujo became a valuable part of the Barça defence, playing more than 3,000 minutes for the first team, scoring four goals and showing his versatility by playing at right back when called upon.",
-        "The season 2022/23 saw the Uruguayan become a vital cog in a brilliant Barça defence which conceded just 18 goals in 38 La Liga matches. Araujo picked up his first La Liga title with the first team in the same season.",
-        "Araujo was part of the Uruguay squad for the Copa América in Brazil in 2021 and for the World Cup in Qatar where he was unable to make an appearance due to injury."
-      ],
-      "details": {
-        "placeOfBirth": "Rivera, Uruguay",
-        "dateOfBirth": "07/03/1999",
-        "weight": "96kg",
-        "height": "191cm",
-        "clubDebut": "06/10/2019"
-      },
-      "trophy": {
-        "LaLiga": {
-          "club": "Barcelona",
-          "title": "La Liga",
-          "quantity": 2,
-          "img": "LaLiga",
-          "years": {
-            "0": "2022/23",
-            "1": "2024/25"
-          }
-        },
-        "CopaDelRey": {
-          "club": "Barcelona",
-          "title": "Copa del Rey",
-          "quantity": 2,
-          "img": "CopaDelRey",
-          "years": {
-            "0": "2020/21",
-            "1": "2024/25"
-          }
-        },
-        "SpanishSuperCup": {
-          "club": "Barcelona",
-          "title": "Spanish Super Cup",
-          "quantity": 3,
-          "img": "SpanishSuperCup",
-          "years": {
-            "0": "2022/23",
-            "1": "2024/25",
-            "2": "2025/26"
-          }
-        }
-      }
-    },
-    {
       "id": "cubarsi",
       "name": "Pau",
       "surname": "Cubarsi",
@@ -609,6 +539,59 @@
           "img": "",
           "years": {
             "0": "2024"
+          }
+        }
+      }
+    },
+    {
+      "id": "espart",
+      "name": "Xavi",
+      "surname": "Espart",
+      "fullName": "Xavier Espart Font",
+      "position": "defender",
+      "img": "",
+      "number": "12",
+      "stats": {
+        "matches": "11",
+        "goals": "1",
+        "assists": "2"
+      },
+      "currentStats": {
+        "matches": "5",
+        "goals": "1",
+        "assists": "2"
+      },
+      "title": "A versatile midfielder who can also play as a full back, the La Masia product is excellent on the ball and can feature on the left or the right",
+      "subtitle": "Xavi Espart has been at Barça since the summer of 2015 when he joined from UE Vilassar de Mar as an U8 player. He went through the youth categories quickly, reaching the U19 squad where he operated mainly as a full back.",
+      "bio": [
+        "Xavi Espart has been at Barça since the summer of 2015 when he joined from UE Vilassar de Mar as an U8 player. He went through the youth categories quickly, reaching the U19 squad where he operated mainly as a full back.",
+        "Espart is a versatile midfielder who can play in the centre of midfield or in a wider position, and he can also operate in defence.  In the 2024/25 season, even though he was an U19 still, Espart made his debut with Barça Atlètic on August 31, 2024, away at Andorra. Throughout the season, he occasionally was involved with Barça Atlètic, making six appearances, one of them as a starter. In the 2025/26 season, he was one of the captains of the squad despite still being an U19, making 14 appearances for Juliano Belletti's team. His performances caught the eye of first team coach Hani Flick and he made his debut for the first in the Champions League last 16 tie against Newcastle United. Espart ended the campaign having made six appearances in total for the first team, four in the league and two in the Champions League.",
+        "In the summer of 2026 he won the U19 European Championships with the Spain squad and then joined the first team's preseason campaign. After impressing once again, he was incorporated into the first team at the start of the 2026/27 campaign."
+      ],
+      "details": {
+        "placeOfBirth": "Barcelona, Spain",
+        "dateOfBirth": "21/05/2007",
+        "weight": "",
+        "height": "175cm",
+        "clubDebut": "31/08/2024"
+      },
+      "trophy": {
+        "LaLiga": {
+          "club": "Barcelona",
+          "title": "La Liga",
+          "quantity": 1,
+          "img": "LaLiga",
+          "years": {
+            "0": "2025/26"
+          }
+        },
+        "EuropeanU19Championship": {
+          "club": "Spain",
+          "title": "European U-19 Championship",
+          "quantity": 1,
+          "img": "",
+          "years": {
+            "0": "2026"
           }
         }
       }

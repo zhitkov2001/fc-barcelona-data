@@ -88,7 +88,7 @@
   { "id": 81, "title": "Porto", "abbr": "POR", "image": "Porto" },
   { "id": 82, "title": "PSV Eindhoven", "shortTitle": "PSV", "abbr": "PSV", "image": "PSV" },
   { "id": 83, "title": "Qarabag", "abbr": "QAR", "image": "Qarabag" },
-  { "id": 84, "title": "Racing", "abbr": "RAC", "image": "Racing" },
+  { "id": 84, "title": "Malaga", "shortTitle": "Malaga", "abbr": "MAL", "image": "Malaga" },
   { "id": 85, "title": "Racing Club", "abbr": "RAC", "image": "Racing" },
   { "id": 86, "title": "Racing Ferrol", "abbr": "FER", "image": "RacingFerrol" },
   { "id": 87, "title": "Rangers", "abbr": "RAN", "image": "Rangers" },
