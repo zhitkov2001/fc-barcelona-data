@@ -4,6 +4,439 @@
   "type": "championship",
   "updatedAt": "2025-11-04T17:06:00+02:00",
   "seasons": {
+    "2026/27": {
+      "teams": [
+        
+      ],
+      "stages": {
+        "league": [
+          {
+            "teamId": 6,
+            "stats": {
+              "position": 15,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 1,
+              "missed": 0
+            }
+          },
+          {
+            "teamId": 7,
+            "stats": {
+              "position": 9,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 3,
+              "missed": 2
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 11,
+            "stats": {
+              "position": 25,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 1,
+              "missed": 2
+            }
+          },
+          {
+            "teamId": 13,
+            "stats": {
+              "position": 3,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 5,
+              "missed": 1
+            },
+            "isQualified": "green"
+          },
+          {
+            "teamId": 15,
+            "stats": {
+              "position": 2,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 5,
+              "missed": 0
+            },
+            "isQualified": "green"
+          },
+          {
+            "teamId": 16,
+            "stats": {
+              "position": 12,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 3,
+              "missed": 2
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 18,
+            "stats": {
+              "position": 9,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 3,
+              "missed": 2
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 19,
+            "stats": {
+              "position": 36,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 0,
+              "missed": 5
+            }
+          },
+          {
+            "teamId": 28,
+            "stats": {
+              "position": 22,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 2,
+              "missed": 3
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 38,
+            "stats": {
+              "position": 19,
+              "wins": 0,
+              "draws": 1,
+              "losses": 0,
+              "scored": 1,
+              "missed": 1
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 40,
+            "stats": {
+              "position": 33,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 1,
+              "missed": 5
+            }
+          },
+          {
+            "teamId": 42,
+            "stats": {
+              "position": 29,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 1,
+              "missed": 3
+            }
+          },
+          {
+            "teamId": 49,
+            "stats": {
+              "position": 25,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 1,
+              "missed": 2
+            }
+          },
+          {
+            "teamId": 55,
+            "stats": {
+              "position": 9,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 3,
+              "missed": 2
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 57,
+            "stats": {
+              "position": 22,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 2,
+              "missed": 3
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 58,
+            "stats": {
+              "position": 13,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 2,
+              "missed": 1
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 62,
+            "stats": {
+              "position": 8,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 2,
+              "missed": 0
+            },
+            "isQualified": "green"
+          },
+          {
+            "teamId": 63,
+            "stats": {
+              "position": 4,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 4,
+              "missed": 0
+            },
+            "isQualified": "green"
+          },
+          {
+            "teamId": 71,
+            "stats": {
+              "position": 27,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 0,
+              "missed": 1
+            }
+          },
+          {
+            "teamId": 78,
+            "stats": {
+              "position": 1,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 6,
+              "missed": 1
+            },
+            "isQualified": "green"
+          },
+          {
+            "teamId": 81,
+            "stats": {
+              "position": 31,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 0,
+              "missed": 2
+            }
+          },
+          {
+            "teamId": 82,
+            "stats": {
+              "position": 19,
+              "wins": 0,
+              "draws": 1,
+              "losses": 0,
+              "scored": 1,
+              "missed": 1
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 89,
+            "stats": {
+              "position": 32,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 1,
+              "missed": 4
+            }
+          },
+          {
+            "teamId": 92,
+            "stats": {
+              "position": 13,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 2,
+              "missed": 1
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 96,
+            "stats": {
+              "position": 17,
+              "wins": 0,
+              "draws": 1,
+              "losses": 1,
+              "scored": 1,
+              "missed": 1
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 98,
+            "stats": {
+              "position": 17,
+              "wins": 0,
+              "draws": 1,
+              "losses": 0,
+              "scored": 1,
+              "missed": 1
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 99,
+            "stats": {
+              "position": 22,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 2,
+              "missed": 3
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 100,
+            "stats": {
+              "position": 35,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 1,
+              "missed": 6
+            }
+          },
+          {
+            "teamId": 102,
+            "stats": {
+              "position": 6,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 3,
+              "missed": 1
+            },
+            "isQualified": "green"
+          },
+          {
+            "teamId": 105,
+            "stats": {
+              "position": 6,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 3,
+              "missed": 1
+            },
+            "isQualified": "green"
+          },
+          {
+            "teamId": 114,
+            "stats": {
+              "position": 21,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 2,
+              "missed": 3
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 116,
+            "stats": {
+              "position": 5,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 4,
+              "missed": 1
+            },
+            "isQualified": "green"
+          },
+          {
+            "teamId": 117,
+            "stats": {
+              "position": 16,
+              "wins": 1,
+              "draws": 0,
+              "losses": 0,
+              "scored": 1,
+              "missed": 0
+            },
+            "isQualified": "orange"
+          },
+          {
+            "teamId": 118,
+            "stats": {
+              "position": 27,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 0,
+              "missed": 1
+            }
+          },
+          {
+            "teamId": 119,
+            "stats": {
+              "position": 29,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 1,
+              "missed": 3
+            }
+          },
+          {
+            "teamId": 120,
+            "stats": {
+              "position": 34,
+              "wins": 0,
+              "draws": 0,
+              "losses": 1,
+              "scored": 0,
+              "missed": 4
+            }
+          }
+        ],
+        "playoff": {
+          "rounds": [
+           
+          ]
+        }
+      }
+    },
     "2025/26": {
       "teams": [
         { "teamId": 1 },
@@ -671,8 +1104,8 @@
                   "homeTeamId": 78,
                   "awayTeamId": 15,
                   "legs": [
-                    { "homeScore": null, "awayScore": null },
-                    { "homeScore": null, "awayScore": null }
+                    { "homeScore": 5, "awayScore": 4 },
+                    { "homeScore": 1, "awayScore": 1 }
                   ]
                 },
                 {
@@ -680,15 +1113,22 @@
                   "homeTeamId": 11,
                   "awayTeamId": 6,
                   "legs": [
-                    { "homeScore": null, "awayScore": null },
-                    { "homeScore": null, "awayScore": null }
+                    { "homeScore": 1, "awayScore": 1 },
+                    { "homeScore": 1, "awayScore": 0 }
                   ]
                 }
               ]
             },
             {
               "title": "final",
-              "matches": []
+              "matches": [{
+                  "matchId": "m1",
+                  "homeTeamId": 78,
+                  "awayTeamId": 6,
+                  "legs": [
+                    { "homeScore": 1, "awayScore": 1, "penalties": { "homeScore": 4, "awayScore": 3 } }
+                  ]
+                }]
             }
           ]
         }

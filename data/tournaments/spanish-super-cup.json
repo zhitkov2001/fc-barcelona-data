@@ -2,6 +2,43 @@
   "title": "Spanish Supercup",
   "type": "cup",
   "seasons": {
+    "2026/27": {
+      "teams": [{ "teamId": 11 }, { "teamId": 13 }, { "teamId": 92 }, { "teamId": 94 }],
+      "stages": {
+        "playoff": {
+          "rounds": [
+            {
+              "title": "semi-finals",
+              "matches": [
+                {
+                  "matchId": "m1",
+                  "homeTeamId": 13,
+                  "awayTeamId": 11,
+                  "legs": [{ "homeScore": null, "awayScore": null }]
+                },
+                {
+                  "matchId": "m2",
+                  "homeTeamId": 94,
+                  "awayTeamId": 92,
+                  "legs": [{ "homeScore": null, "awayScore": null }]
+                }
+              ]
+            },
+            {
+              "title": "final",
+              "matches": [
+                {
+                  "matchId": "m1",
+                  "homeTeamId": null,
+                  "awayTeamId": null,
+                  "legs": [{ "homeScore": null, "awayScore": null }]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     "2025/26": {
       "teams": [{ "teamId": 9 }, { "teamId": 11 }, { "teamId": 13 }, { "teamId": 92 }],
       "stages": {

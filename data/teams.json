@@ -17,7 +17,7 @@
   { "id": 16, "title": "Borussia Dortmund", "shortTitle": "B. Dortmund", "abbr": "BVB", "image": "Borussia" },
   { "id": 17, "title": "Benfica", "abbr": "SLB", "image": "Benfica" },
   { "id": 18, "title": "Betis", "shortTitle": "Betis", "abbr": "BET", "image": "RealBetis" },
-  { "id": 19, "title": "Bodo-Glimt", "shortTitle": "Bodø", "abbr": "BOD", "image": "BodoGlimt" },
+  { "id": 19, "title": "Bodø/Glimt", "shortTitle": "Bodø", "abbr": "BOD", "image": "BodoGlimt" },
   { "id": 20, "title": "Bologna", "abbr": "BOL", "image": "Bologna" },
   { "id": 21, "title": "Braga", "abbr": "BRA", "image": "Braga" },
   { "id": 22, "title": "Brest", "abbr": "BRE", "image": "Brest" },
@@ -36,7 +36,7 @@
   { "id": 35, "title": "Elche", "abbr": "ELC", "image": "Elche" },
   { "id": 36, "title": "Eldense", "abbr": "ELD", "image": "" },
   { "id": 37, "title": "Espanyol", "abbr": "ESP", "image": "Espanyol" },
-  { "id": 38, "title": "Fenerbahce", "abbr": "FEN", "image": "Fenerbahce" },
+  { "id": 38, "title": "Fenerbahçe", "abbr": "FEN", "image": "Fenerbahce" },
   { "id": 39, "title": "Ferencvaros", "abbr": "FER", "image": "Ferencvaros" },
   { "id": 40, "title": "Feyenoord", "abbr": "FEY", "image": "Feyenoord" },
   { "id": 41, "title": "Freiburg", "abbr": "SCF", "image": "Freiburg" },
@@ -48,7 +48,7 @@
   {
     "id": 47,
     "title": "Deportivo Guadalajara",
-    "shortTitle": "D. Guadalajara",
+    "shortTitle": "Deportivo G.",
     "abbr": "GDL",
     "image": "DeportivoGuadalajara"
   },
@@ -103,7 +103,7 @@
   { "id": 96, "title": "Roma", "abbr": "ROM", "image": "Roma" },
   { "id": 97, "title": "Sevilla", "abbr": "SEV", "image": "Sevilla" },
   { "id": 98, "title": "Shakhtar", "abbr": "SHA", "image": "Shakhtar" },
-  { "id": 99, "title": "Slavia Prague", "shortTitle": "Slavia P.", "abbr": "SLA", "image": "SlaviaPraha" },
+  { "id": 99, "title": "Slavia Praha", "shortTitle": "Slavia P.", "abbr": "SLA", "image": "SlaviaPraha" },
   { "id": 100, "title": "Slovan Bratislava", "shortTitle": "Slovan B.", "abbr": "SLO", "image": "SlovanBratislava" },
   { "id": 101, "title": "Sparta Praha", "shortTitle": "Sparta", "abbr": "SPA", "image": "SpartaPraha" },
   { "id": 102, "title": "Sporting CP", "shortTitle": "Sporting", "abbr": "SCP", "image": "Sporting" },
@@ -119,5 +119,10 @@
   { "id": 112, "title": "Valladolid", "abbr": "VLL", "image": "Valladolid" },
   { "id": 113, "title": "Viktoria Plzen", "shortTitle": "Viktoria P.", "abbr": "PLZ", "image": "ViktoriaPlzen" },
   { "id": 114, "title": "Villarreal", "abbr": "VIL", "image": "Villarreal" },
-  { "id": 115, "title": "Young Boys", "shortTitle": "Young Boys", "abbr": "YB", "image": "YoungBoys" }
+  { "id": 115, "title": "Young Boys", "shortTitle": "Young Boys", "abbr": "YB", "image": "YoungBoys" },
+  { "id": 116, "title": "Como", "abbr": "COM", "image": "Como" },
+  { "id": 117, "title": "AEK Athens", "abbr": "AEK", "image": "Aek-athens" },
+  { "id": 118, "title": "LASK", "abbr": "LAK", "image": "Lask" },
+  { "id": 119, "title": "Viking", "abbr": "VIK", "image": "Viking" },
+  { "id": 120, "title": "Sabah", "abbr": "SAB", "image": "Sabah" }
 ]
