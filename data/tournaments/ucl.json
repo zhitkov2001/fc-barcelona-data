@@ -19,7 +19,8 @@
               "losses": 0,
               "scored": 1,
               "missed": 0
-            }
+            },
+            "isQualified":"orange"
           },
           {
             "teamId": 7,
