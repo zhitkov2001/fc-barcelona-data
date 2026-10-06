@@ -155,8 +155,8 @@
         "stadium": "Mestalla Stadium"
       },
       "owner": {
-        "title": "Vallencia",
-        "img": "Vallencia",
+        "title": "Valencia",
+        "img": "Valencia",
         "players": {
           "start": {},
           "subtitution": {}
@@ -379,10 +379,7 @@
       "score": {
         "owner": 2,
         "guest": 2,
-        "penalty": {
-        "owner": 2,
-        "guest": 2
-      }
+        "penalty": "3-2"
       },
       "guest": {
         "title": "FC Barcelona",
