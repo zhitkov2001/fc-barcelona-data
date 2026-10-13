@@ -5,9 +5,7 @@
   "updatedAt": "2025-11-04T17:06:00+02:00",
   "seasons": {
     "2026/27": {
-      "teams": [
-        
-      ],
+      "teams": [],
       "stages": {
         "league": [
           {
@@ -20,7 +18,7 @@
               "scored": 1,
               "missed": 0
             },
-            "isQualified":"orange"
+            "isQualified": "orange"
           },
           {
             "teamId": 7,
@@ -432,9 +430,7 @@
           }
         ],
         "playoff": {
-          "rounds": [
-           
-          ]
+          "rounds": []
         }
       }
     },
@@ -1083,7 +1079,7 @@
                   "awayTeamId": 11,
                   "legs": [
                     { "homeScore": 0, "awayScore": 2 },
-                    { "homeScore": 2, "awayScore": 1 }
+                    { "homeScore": 1, "awayScore": 2 }
                   ]
                 },
                 {
@@ -1122,14 +1118,14 @@
             },
             {
               "title": "final",
-              "matches": [{
+              "matches": [
+                {
                   "matchId": "m1",
                   "homeTeamId": 78,
                   "awayTeamId": 6,
-                  "legs": [
-                    { "homeScore": 1, "awayScore": 1, "penalties": { "homeScore": 4, "awayScore": 3 } }
-                  ]
-                }]
+                  "legs": [{ "homeScore": 1, "awayScore": 1, "penalties": { "homeScore": 4, "awayScore": 3 } }]
+                }
+              ]
             }
           ]
         }

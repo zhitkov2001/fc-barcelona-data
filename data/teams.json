@@ -5,19 +5,73 @@
   { "id": 4, "title": "Almeria", "abbr": "ALM", "image": "Almeria" },
   { "id": 5, "title": "Antwerp", "abbr": "ANT", "image": "Antwerp" },
   { "id": 6, "title": "Arsenal", "abbr": "ARS", "image": "Arsenal" },
-  { "id": 7, "title": "Aston Villa", "shortTitle": "A. Villa", "abbr": "AVL", "image": "AstonVilla" },
+  {
+    "id": 7,
+    "title": "Aston Villa",
+    "shortTitle": "A. Villa",
+    "abbr": "AVL",
+    "image": "AstonVilla"
+  },
   { "id": 8, "title": "Atalanta", "abbr": "ATA", "image": "Atalanta" },
-  { "id": 9, "title": "Athletic Bilbao", "shortTitle": "Athletic", "abbr": "ATH", "image": "AthleticBilbao" },
-  { "id": 10, "title": "Atletico Baleares", "shortTitle": "Atletico B.", "abbr": "ATB", "image": "" },
-  { "id": 11, "title": "Atletico Madrid", "shortTitle": "Atlético M.", "abbr": "ATM", "image": "AtleticoMadrid" },
+  {
+    "id": 9,
+    "title": "Athletic Bilbao",
+    "shortTitle": "Athletic",
+    "abbr": "ATH",
+    "image": "AthleticBilbao"
+  },
+  {
+    "id": 10,
+    "title": "Atletico Baleares",
+    "shortTitle": "Atletico B.",
+    "abbr": "ATB",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "title": "Atletico Madrid",
+    "shortTitle": "Atlético M.",
+    "abbr": "ATM",
+    "image": "AtleticoMadrid"
+  },
   { "id": 12, "title": "Barbastro", "abbr": "BAR", "image": "" },
   { "id": 13, "title": "Barcelona", "abbr": "FCB", "image": "Barcelona" },
-  { "id": 14, "title": "Bayer Leverkusen", "shortTitle": "Leverkusen", "abbr": "B04", "image": "Bayer" },
-  { "id": 15, "title": "Bayern Munchen", "shortTitle": "B. Munich", "abbr": "BAY", "image": "Bayern" },
-  { "id": 16, "title": "Borussia Dortmund", "shortTitle": "B. Dortmund", "abbr": "BVB", "image": "Borussia" },
+  {
+    "id": 14,
+    "title": "Bayer Leverkusen",
+    "shortTitle": "Leverkusen",
+    "abbr": "B04",
+    "image": "Bayer"
+  },
+  {
+    "id": 15,
+    "title": "Bayern Munchen",
+    "shortTitle": "B. Munich",
+    "abbr": "BAY",
+    "image": "Bayern"
+  },
+  {
+    "id": 16,
+    "title": "Borussia Dortmund",
+    "shortTitle": "B. Dortmund",
+    "abbr": "BVB",
+    "image": "Borussia"
+  },
   { "id": 17, "title": "Benfica", "abbr": "SLB", "image": "Benfica" },
-  { "id": 18, "title": "Betis", "shortTitle": "Betis", "abbr": "BET", "image": "RealBetis" },
-  { "id": 19, "title": "Bodø/Glimt", "shortTitle": "Bodø", "abbr": "BOD", "image": "BodoGlimt" },
+  {
+    "id": 18,
+    "title": "Betis",
+    "shortTitle": "Betis",
+    "abbr": "BET",
+    "image": "RealBetis"
+  },
+  {
+    "id": 19,
+    "title": "Bodø/Glimt",
+    "shortTitle": "Bodø",
+    "abbr": "BOD",
+    "image": "BodoGlimt"
+  },
   { "id": 20, "title": "Bologna", "abbr": "BOL", "image": "Bologna" },
   { "id": 21, "title": "Braga", "abbr": "BRA", "image": "Braga" },
   { "id": 22, "title": "Brest", "abbr": "BRE", "image": "Brest" },
@@ -26,13 +80,37 @@
   { "id": 25, "title": "Celta", "abbr": "CEL", "image": "Celta" },
   { "id": 26, "title": "Celtic", "abbr": "CEL", "image": "Celtic" },
   { "id": 27, "title": "Chelsea", "abbr": "CHE", "image": "Chelsea" },
-  { "id": 28, "title": "Club Brugge", "shortTitle": "Brugge", "abbr": "BRU", "image": "Brugge" },
+  {
+    "id": 28,
+    "title": "Club Brugge",
+    "shortTitle": "Brugge",
+    "abbr": "BRU",
+    "image": "Brugge"
+  },
   { "id": 29, "title": "Copenhagen", "abbr": "CPH", "image": "Copenhagen" },
-  { "id": 30, "title": "Crvena Zvezda", "shortTitle": "Zvezda", "abbr": "CZV", "image": "Crvena" },
-  { "id": 31, "title": "Cultural Leonesa", "shortTitle": "C. Leonesa", "abbr": "CUL", "image": "CulturalLeonesa" },
+  {
+    "id": 30,
+    "title": "Crvena Zvezda",
+    "shortTitle": "Zvezda",
+    "abbr": "CZV",
+    "image": "Crvena"
+  },
+  {
+    "id": 31,
+    "title": "Cultural Leonesa",
+    "shortTitle": "C. Leonesa",
+    "abbr": "CUL",
+    "image": "CulturalLeonesa"
+  },
   { "id": 32, "title": "Deportivo", "abbr": "DEP", "image": "Deportivo" },
   { "id": 33, "title": "Eibar", "abbr": "EIB", "image": "Eibar" },
-  { "id": 34, "title": "Eintracht Frankfurt", "shortTitle": "Frankfurt", "abbr": "FRA", "image": "Frankfurt" },
+  {
+    "id": 34,
+    "title": "Eintracht Frankfurt",
+    "shortTitle": "Frankfurt",
+    "abbr": "FRA",
+    "image": "Frankfurt"
+  },
   { "id": 35, "title": "Elche", "abbr": "ELC", "image": "Elche" },
   { "id": 36, "title": "Eldense", "abbr": "ELD", "image": "" },
   { "id": 37, "title": "Espanyol", "abbr": "ESP", "image": "Espanyol" },
@@ -43,7 +121,13 @@
   { "id": 42, "title": "Galatasaray", "abbr": "GAL", "image": "Galatasaray" },
   { "id": 43, "title": "Getafe", "abbr": "GET", "image": "Getafe" },
   { "id": 44, "title": "Girona", "abbr": "GIR", "image": "Girona" },
-  { "id": 45, "title": "GNK Dinamo", "shortTitle": "Dinamo", "abbr": "DIN", "image": "GNKDinamo" },
+  {
+    "id": 45,
+    "title": "GNK Dinamo",
+    "shortTitle": "Dinamo",
+    "abbr": "DIN",
+    "image": "GNKDinamo"
+  },
   { "id": 46, "title": "Granada", "abbr": "GRA", "image": "Granada" },
   {
     "id": 47,
@@ -64,10 +148,28 @@
   { "id": 57, "title": "Lille", "abbr": "LIL", "image": "Lille" },
   { "id": 58, "title": "Liverpool", "abbr": "LIV", "image": "Liverpool" },
   { "id": 59, "title": "Logrones", "abbr": "LOG", "image": "Logrones" },
-  { "id": 60, "title": "Maccabi Haifa", "shortTitle": "Maccabi H.", "abbr": "MHA", "image": "MaccabiHaifa" },
+  {
+    "id": 60,
+    "title": "Maccabi Haifa",
+    "shortTitle": "Maccabi H.",
+    "abbr": "MHA",
+    "image": "MaccabiHaifa"
+  },
   { "id": 61, "title": "Mallorca", "abbr": "MAL", "image": "Mallorca" },
-  { "id": 62, "title": "Manchester City", "shortTitle": "Man City", "abbr": "MCI", "image": "ManchesterCity" },
-  { "id": 63, "title": "Manchester United", "shortTitle": "Man United", "abbr": "MUN", "image": "ManchesterUnited" },
+  {
+    "id": 62,
+    "title": "Manchester City",
+    "shortTitle": "Man City",
+    "abbr": "MCI",
+    "image": "ManchesterCity"
+  },
+  {
+    "id": 63,
+    "title": "Manchester United",
+    "shortTitle": "Man United",
+    "abbr": "MUN",
+    "image": "ManchesterUnited"
+  },
   { "id": 64, "title": "Marbella", "abbr": "MAR", "image": "Marbella" },
   { "id": 65, "title": "Marseille", "abbr": "OM", "image": "Marseille" },
   { "id": 66, "title": "Midtjylland", "abbr": "MID", "image": "Midtjylland" },
@@ -76,50 +178,181 @@
   { "id": 69, "title": "Monaco", "abbr": "ASM", "image": "Monaco" },
   { "id": 70, "title": "Nantes", "abbr": "NAN", "image": "Nantes" },
   { "id": 71, "title": "Napoli", "abbr": "NAP", "image": "Napoli" },
-  { "id": 72, "title": "Newcastle United", "shortTitle": "Newcastle", "abbr": "NEW", "image": "Newcastle" },
+  {
+    "id": 72,
+    "title": "Newcastle United",
+    "shortTitle": "Newcastle",
+    "abbr": "NEW",
+    "image": "Newcastle"
+  },
   { "id": 73, "title": "Olympiacos", "abbr": "OLY", "image": "Olympiacos" },
   { "id": 74, "title": "Osasuna", "abbr": "OSA", "image": "Osasuna" },
   { "id": 75, "title": "Ourense", "abbr": "OUR", "image": "" },
   { "id": 76, "title": "Oviedo", "abbr": "OVI", "image": "Oviedo" },
   { "id": 77, "title": "Pafos", "abbr": "PAF", "image": "Pafos" },
-  { "id": 78, "title": "Paris Saint-Germain", "shortTitle": "PSG", "abbr": "PSG", "image": "PSG" },
+  {
+    "id": 78,
+    "title": "Paris Saint-Germain",
+    "shortTitle": "Paris",
+    "abbr": "PSG",
+    "image": "PSG"
+  },
   { "id": 79, "title": "Ponferradina", "abbr": "PON", "image": "Ponferradina" },
   { "id": 80, "title": "Pontevedra", "abbr": "PON", "image": "Pontevedra" },
   { "id": 81, "title": "Porto", "abbr": "POR", "image": "Porto" },
-  { "id": 82, "title": "PSV Eindhoven", "shortTitle": "PSV", "abbr": "PSV", "image": "PSV" },
+  {
+    "id": 82,
+    "title": "PSV Eindhoven",
+    "shortTitle": "PSV",
+    "abbr": "PSV",
+    "image": "PSV"
+  },
   { "id": 83, "title": "Qarabag", "abbr": "QAR", "image": "Qarabag" },
-  { "id": 84, "title": "Malaga", "shortTitle": "Malaga", "abbr": "MAL", "image": "Malaga" },
+  {
+    "id": 84,
+    "title": "Malaga",
+    "shortTitle": "Malaga",
+    "abbr": "MAL",
+    "image": "Malaga"
+  },
   { "id": 85, "title": "Racing Club", "abbr": "RAC", "image": "Racing" },
-  { "id": 86, "title": "Racing Ferrol", "abbr": "FER", "image": "RacingFerrol" },
+  {
+    "id": 86,
+    "title": "Racing Ferrol",
+    "abbr": "FER",
+    "image": "RacingFerrol"
+  },
   { "id": 87, "title": "Rangers", "abbr": "RAN", "image": "Rangers" },
-  { "id": 88, "title": "Rayo Vallecano", "shortTitle": "R. Vallecano", "abbr": "RAY", "image": "RayoVallecano" },
-  { "id": 89, "title": "RB Leipzig", "shortTitle": "Leipzig", "abbr": "RBL", "image": "Leipzig" },
-  { "id": 90, "title": "RB Salzburg", "shortTitle": "Salzburg", "abbr": "RBS", "image": "Salzburg" },
-  { "id": 91, "title": "Real Betis", "shortTitle": "Betis", "abbr": "BET", "image": "RealBetis" },
-  { "id": 92, "title": "Real Madrid", "shortTitle": "R. Madrid", "abbr": "RMA", "image": "RealMadrid" },
-  { "id": 93, "title": "Real Murcia", "shortTitle": "R. Murcia", "abbr": "RMU", "image": "" },
-  { "id": 94, "title": "Real Sociedad", "shortTitle": "Sociedad", "abbr": "RSO", "image": "RealSociedad" },
+  {
+    "id": 88,
+    "title": "Rayo Vallecano",
+    "shortTitle": "R. Vallecano",
+    "abbr": "RAY",
+    "image": "RayoVallecano"
+  },
+  {
+    "id": 89,
+    "title": "RB Leipzig",
+    "shortTitle": "Leipzig",
+    "abbr": "RBL",
+    "image": "Leipzig"
+  },
+  {
+    "id": 90,
+    "title": "RB Salzburg",
+    "shortTitle": "Salzburg",
+    "abbr": "RBS",
+    "image": "Salzburg"
+  },
+  {
+    "id": 91,
+    "title": "Real Betis",
+    "shortTitle": "Betis",
+    "abbr": "BET",
+    "image": "RealBetis"
+  },
+  {
+    "id": 92,
+    "title": "Real Madrid",
+    "shortTitle": "R. Madrid",
+    "abbr": "RMA",
+    "image": "RealMadrid"
+  },
+  {
+    "id": 93,
+    "title": "Real Murcia",
+    "shortTitle": "R. Murcia",
+    "abbr": "RMU",
+    "image": ""
+  },
+  {
+    "id": 94,
+    "title": "Real Sociedad",
+    "shortTitle": "Sociedad",
+    "abbr": "RSO",
+    "image": "RealSociedad"
+  },
   { "id": 95, "title": "Rennes", "abbr": "REN", "image": "Rennes" },
   { "id": 96, "title": "Roma", "abbr": "ROM", "image": "Roma" },
   { "id": 97, "title": "Sevilla", "abbr": "SEV", "image": "Sevilla" },
   { "id": 98, "title": "Shakhtar", "abbr": "SHA", "image": "Shakhtar" },
-  { "id": 99, "title": "Slavia Praha", "shortTitle": "Slavia P.", "abbr": "SLA", "image": "SlaviaPraha" },
-  { "id": 100, "title": "Slovan Bratislava", "shortTitle": "Slovan B.", "abbr": "SLO", "image": "SlovanBratislava" },
-  { "id": 101, "title": "Sparta Praha", "shortTitle": "Sparta", "abbr": "SPA", "image": "SpartaPraha" },
-  { "id": 102, "title": "Sporting CP", "shortTitle": "Sporting", "abbr": "SCP", "image": "Sporting" },
-  { "id": 103, "title": "Sporting Gijon", "shortTitle": "Sporting G.", "abbr": "GIJ", "image": "SportingGijon" },
-  { "id": 104, "title": "Sturm Graz", "shortTitle": "Sturm", "abbr": "STU", "image": "SturmGraz" },
+  {
+    "id": 99,
+    "title": "Slavia Praha",
+    "shortTitle": "Slavia P.",
+    "abbr": "SLA",
+    "image": "SlaviaPraha"
+  },
+  {
+    "id": 100,
+    "title": "Slovan Bratislava",
+    "shortTitle": "Slovan B.",
+    "abbr": "SLO",
+    "image": "SlovanBratislava"
+  },
+  {
+    "id": 101,
+    "title": "Sparta Praha",
+    "shortTitle": "Sparta",
+    "abbr": "SPA",
+    "image": "SpartaPraha"
+  },
+  {
+    "id": 102,
+    "title": "Sporting CP",
+    "shortTitle": "Sporting",
+    "abbr": "SCP",
+    "image": "Sporting"
+  },
+  {
+    "id": 103,
+    "title": "Sporting Gijon",
+    "shortTitle": "Sporting G.",
+    "abbr": "GIJ",
+    "image": "SportingGijon"
+  },
+  {
+    "id": 104,
+    "title": "Sturm Graz",
+    "shortTitle": "Sturm",
+    "abbr": "STU",
+    "image": "SturmGraz"
+  },
   { "id": 105, "title": "Stuttgart", "abbr": "VFB", "image": "Stuttgart" },
   { "id": 106, "title": "Talavera", "abbr": "TAL", "image": "" },
   { "id": 107, "title": "Tenerife", "abbr": "TEN", "image": "Tenerife" },
-  { "id": 108, "title": "Tottenham Hotspur", "shortTitle": "Tottenham", "abbr": "TOT", "image": "Tottenham" },
-  { "id": 109, "title": "Union Berlin", "shortTitle": "Union B.", "abbr": "UNB", "image": "UnionBerlin" },
+  {
+    "id": 108,
+    "title": "Tottenham Hotspur",
+    "shortTitle": "Tottenham",
+    "abbr": "TOT",
+    "image": "Tottenham"
+  },
+  {
+    "id": 109,
+    "title": "Union Berlin",
+    "shortTitle": "Union B.",
+    "abbr": "UNB",
+    "image": "UnionBerlin"
+  },
   { "id": 110, "title": "Union SG", "abbr": "USG", "image": "UnionSG" },
   { "id": 111, "title": "Valencia", "abbr": "VAL", "image": "Valencia" },
   { "id": 112, "title": "Valladolid", "abbr": "VLL", "image": "Valladolid" },
-  { "id": 113, "title": "Viktoria Plzen", "shortTitle": "Viktoria P.", "abbr": "PLZ", "image": "ViktoriaPlzen" },
+  {
+    "id": 113,
+    "title": "Viktoria Plzen",
+    "shortTitle": "Viktoria P.",
+    "abbr": "PLZ",
+    "image": "ViktoriaPlzen"
+  },
   { "id": 114, "title": "Villarreal", "abbr": "VIL", "image": "Villarreal" },
-  { "id": 115, "title": "Young Boys", "shortTitle": "Young Boys", "abbr": "YB", "image": "YoungBoys" },
+  {
+    "id": 115,
+    "title": "Young Boys",
+    "shortTitle": "Young Boys",
+    "abbr": "YB",
+    "image": "YoungBoys"
+  },
   { "id": 116, "title": "Como", "abbr": "COM", "image": "Como" },
   { "id": 117, "title": "AEK Athens", "abbr": "AEK", "image": "Aek-athens" },
   { "id": 118, "title": "LASK", "abbr": "LAK", "image": "Lask" },
