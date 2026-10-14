@@ -34,6 +34,41 @@
         }
       },
       "matchBackground": ""
+    },
+    {
+      "id": 1,
+      "dateInfo": {
+        "weekday": "Tuesday",
+        "date": "13",
+        "month": "October",
+        "time": "21:00"
+      },
+      "competition": { "img": "UCL", "title": "UEFA Champions League  " },
+      "stageInfo": {
+        "stage": "Matchday 2",
+        "stadium": "RAMS Park"
+      },
+      "owner": {
+        "title": "Galatasaray",
+        "img": "Galatasaray",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "score": {
+        "owner": 1,
+        "guest": 4
+      },
+      "guest": {
+        "title": "FC Barcelona",
+        "img": "Barcelona",
+        "players": {
+          "start": {},
+          "subtitution": {}
+        }
+      },
+      "matchBackground": ""
     }
   ],
   "September 2026": [

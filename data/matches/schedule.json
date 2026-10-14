@@ -1,41 +1,6 @@
 {
   "October 2026": [
     {
-      "id": 1,
-      "dateInfo": {
-        "weekday": "Tuesday",
-        "date": "13",
-        "month": "October",
-        "time": "21:00"
-      },
-      "competition": { "img": "UCL", "title": "UEFA Champions League  " },
-      "stageInfo": {
-        "stage": "Matchday 2",
-        "stadium": "RAMS Park"
-      },
-      "owner": {
-        "title": "Galatasaray",
-        "img": "Galatasaray",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "score": {
-        "owner": null,
-        "guest": null
-      },
-      "guest": {
-        "title": "FC Barcelona",
-        "img": "Barcelona",
-        "players": {
-          "start": {},
-          "subtitution": {}
-        }
-      },
-      "matchBackground": ""
-    },
-    {
       "id": 2,
       "dateInfo": {
         "weekday": "Saturday",
